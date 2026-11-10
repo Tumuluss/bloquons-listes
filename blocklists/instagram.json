@@ -1,15 +1,23 @@
 {
   "schemaVersion": 1,
   "platform": "instagram",
-  "version": 5,
-  "updatedAt": "2026-10-29T18:09:26.481Z",
+  "version": 6,
+  "updatedAt": "2026-11-10T15:18:44.724Z",
   "accounts": [
     {
       "id": "instagram:herbertkickl",
       "url": "https://www.instagram.com/herbertkickl/",
       "label": "Herbert Kickl",
       "category": "extreme-right",
+      "country": "Austria",
       "reason": "Président du FPÖ autrichien, parti de droite radicale populiste. Il défend la « remigration », un contrôle strict des frontières et un programme nationaliste opposé à l'immigration et à l'islam politique, tout en dénonçant les élites politiques traditionnelles.",
+      "reasonTranslations": {
+        "en": "Chairman of the Austrian FPÖ, a radical right-wing populist party. He advocates for “remigration,” strict border controls, and a nationalist agenda opposed to immigration and political Islam, while denouncing the traditional political elites.",
+        "es": "Presidente del FPÖ austriaco, un partido populista de extrema derecha. Defiende la «remigración», un control estricto de las fronteras y un programa nacionalista contrario a la inmigración y al islam político, al tiempo que denuncia a las élites políticas tradicionales.",
+        "de": "Vorsitzender der österreichischen FPÖ, einer rechtsradikalen, populistischen Partei. Er setzt sich für „Remigration“, strenge Grenzkontrollen und ein nationalistisches Programm ein, das sich gegen Einwanderung und den politischen Islam richtet, und kritisiert gleichzeitig die traditionellen politischen Eliten.",
+        "it": "Presidente dell'FPÖ austriaco, partito populista di estrema destra. Sostiene la «rimigrazione», un rigoroso controllo delle frontiere e un programma nazionalista contrario all'immigrazione e all'islam politico, denunciando al contempo le élite politiche tradizionali.",
+        "pt_BR": "Presidente do FPÖ austríaco, partido populista de extrema direita. Ele defende a “remigração”, um controle rigoroso das fronteiras e um programa nacionalista contrário à imigração e ao islamismo político, ao mesmo tempo em que critica as elites políticas tradicionais."
+      },
       "source": "https://www.reuters.com/world/europe/austrias-polarising-far-right-leader-bids-become-chancellor-2025-01-06/",
       "addedAt": "2026-10-28"
     },
@@ -18,7 +26,15 @@
       "url": "https://www.instagram.com/vlaamsbelang/",
       "label": "Vlaams Belang",
       "category": "extreme-right",
+      "country": "Belgium",
       "reason": "Parti flamand d'extrême droite prônant le séparatisme, la préférence nationale et une politique migratoire restrictive. Son discours identitaire insiste sur la préservation de la culture flamande et critique le multiculturalisme et l'islam.",
+      "reasonTranslations": {
+        "en": "A far-right Flemish party advocating separatism, national preference, and a restrictive immigration policy. Its identity-based rhetoric emphasizes the preservation of Flemish culture and criticizes multiculturalism and Islam.",
+        "es": "Partido flamenco de extrema derecha que defiende el separatismo, la preferencia nacional y una política migratoria restrictiva. Su discurso identitario hace hincapié en la preservación de la cultura flamenca y critica el multiculturalismo y el islam.",
+        "de": "Eine flämische rechtsextreme Partei, die sich für Separatismus, nationale Vorrangstellung und eine restriktive Migrationspolitik einsetzt. In ihrem identitätspolitischen Diskurs legt sie den Schwerpunkt auf die Bewahrung der flämischen Kultur und kritisiert den Multikulturalismus und den Islam.",
+        "it": "Partito fiammingo di estrema destra che sostiene il separatismo, la preferenza nazionale e una politica migratoria restrittiva. Il suo discorso identitario pone l'accento sulla salvaguardia della cultura fiamminga e critica il multiculturalismo e l'Islam.",
+        "pt_BR": "Partido flamengo de extrema direita que defende o separatismo, a preferência nacional e uma política migratória restritiva. Seu discurso identitário enfatiza a preservação da cultura flamenga e critica o multiculturalismo e o islamismo."
+      },
       "source": "https://www.reuters.com/world/europe/belgium-set-new-government-after-months-negotiations-vrt-news-2025-01-31/",
       "addedAt": "2026-10-28"
     },
@@ -27,7 +43,15 @@
       "url": "https://www.instagram.com/jairmessiasbolsonaro/",
       "label": "Jair Bolsonaro",
       "category": "extreme-right",
+      "country": "Brazil",
       "reason": "Ancien président brésilien régulièrement qualifié d'extrême droite. Son discours associe nationalisme, conservatisme religieux, soutien à une politique sécuritaire répressive et nostalgie exprimée pour la dictature militaire brésilienne ; il a également attaqué la fiabilité du système électoral.",
+      "reasonTranslations": {
+        "en": "A former Brazilian president who is frequently described as far-right. His rhetoric combines nationalism, religious conservatism, support for a repressive security policy, and expressed nostalgia for Brazil’s military dictatorship; he has also questioned the integrity of the electoral system.",
+        "es": "Expresidente brasileño al que se suele calificar de ultraderechista. Su discurso combina el nacionalismo, el conservadurismo religioso, el apoyo a una política de seguridad represiva y la nostalgia expresada por la dictadura militar brasileña; además, ha cuestionado la fiabilidad del sistema electoral.",
+        "de": "Ehemaliger brasilianischer Präsident, der regelmäßig als rechtsextrem bezeichnet wird. In seinen Reden verbindet er Nationalismus, religiösen Konservatismus, die Befürwortung einer repressiven Sicherheitspolitik und die Nostalgie für die brasilianische Militärdiktatur; außerdem hat er die Zuverlässigkeit des Wahlsystems in Frage gestellt.",
+        "it": "Ex presidente brasiliano spesso definito di estrema destra. Il suo discorso unisce nazionalismo, conservatorismo religioso, sostegno a una politica repressiva in materia di sicurezza e nostalgia per la dittatura militare brasiliana; ha inoltre messo in discussione l'affidabilità del sistema elettorale.",
+        "pt_BR": "Ex-presidente brasileiro frequentemente classificado como de extrema direita. Seu discurso combina nacionalismo, conservadorismo religioso, apoio a uma política de segurança repressiva e nostalgia pela ditadura militar brasileira; ele também questionou a confiabilidade do sistema eleitoral."
+      },
       "source": "https://www.reuters.com/world/americas/why-some-young-brazilian-voters-are-abandoning-lula-2026-06-24/",
       "addedAt": "2026-10-28"
     },
@@ -36,7 +60,15 @@
       "url": "https://www.instagram.com/jordanbardella/",
       "label": "Jordan Bardella",
       "category": "extreme-right",
+      "country": "France",
       "reason": "Président du Rassemblement national, parti français classé à l'extrême droite. Il défend notamment la priorité nationale dans certaines prestations, une forte réduction de l'immigration, le renforcement des expulsions et un discours souverainiste sur les frontières et l'identité française.",
+      "reasonTranslations": {
+        "en": "President of the National Rally, a French party classified as far-right. In particular, he advocates for national priority in certain social benefits, a sharp reduction in immigration, increased deportations, and a sovereignist stance on borders and French identity.",
+        "es": "Presidente del Rassemblement National, partido francés considerado de extrema derecha. Defiende, entre otras cosas, la prioridad nacional en determinadas prestaciones sociales, una fuerte reducción de la inmigración, el refuerzo de las expulsiones y un discurso soberanista sobre las fronteras y la identidad francesa.",
+        "de": "Vorsitzender des Rassemblement National, einer französischen Partei, die der extremen Rechten zugeordnet wird. Er setzt sich insbesondere für die nationale Priorität bei bestimmten Sozialleistungen, eine starke Reduzierung der Einwanderung, die Verschärfung von Abschiebungen sowie eine souveränistische Haltung in Bezug auf Grenzen und die französische Identität ein.",
+        "it": "Presidente del Rassemblement National, partito francese classificato nell'estrema destra. Sostiene in particolare la priorità nazionale in determinati servizi, una forte riduzione dell'immigrazione, il rafforzamento delle espulsioni e una linea sovranista in materia di frontiere e identità francese.",
+        "pt_BR": "Presidente do Rassemblement National, partido francês classificado como de extrema direita. Ele defende, entre outras coisas, a prioridade nacional em certos serviços públicos, uma forte redução da imigração, o reforço das deportações e um discurso soberanista sobre as fronteiras e a identidade francesa."
+      },
       "source": "https://www.reuters.com/world/europe/critics-attack-anti-democratic-french-bill-making-rioters-pay-2026-10-27/",
       "addedAt": "2026-10-28"
     },
@@ -45,7 +77,15 @@
       "url": "https://www.instagram.com/marine_lepen/",
       "label": "Marine Le Pen",
       "category": "extreme-right",
+      "country": "France",
       "reason": "Figure majeure du Rassemblement national, parti d'extrême droite issu du Front national. Elle défend la priorité nationale pour certains droits et prestations, une immigration restrictive et une conception souverainiste de l'identité et de la citoyenneté françaises.",
+      "reasonTranslations": {
+        "en": "A leading figure in the National Rally, a far-right party that emerged from the National Front. She advocates for giving priority to French citizens in certain rights and benefits, restrictive immigration policies, and a sovereignist conception of French identity and citizenship.",
+        "es": "Figura destacada del Rassemblement National, partido de extrema derecha surgido del Frente Nacional. Defiende la prioridad nacional en materia de determinados derechos y prestaciones, una política de inmigración restrictiva y una concepción soberanista de la identidad y la ciudadanía francesas.",
+        "de": "Eine führende Persönlichkeit des Rassemblement National, einer rechtsextremen Partei, die aus dem Front National hervorgegangen ist. Sie setzt sich für die Vorrangstellung nationaler Interessen bei bestimmten Rechten und Leistungen, eine restriktive Einwanderungspolitik sowie ein souveränistisches Verständnis der französischen Identität und Staatsbürgerschaft ein.",
+        "it": "Figura di spicco del Rassemblement national, partito di estrema destra nato dal Front national. Sostiene la priorità nazionale per alcuni diritti e prestazioni, una politica restrittiva in materia di immigrazione e una concezione sovranista dell'identità e della cittadinanza francesi.",
+        "pt_BR": "Figura de destaque do Rassemblement National, partido de extrema direita que surgiu do Front National. Ela defende a prioridade nacional em relação a certos direitos e benefícios, uma política de imigração restritiva e uma concepção soberanista da identidade e da cidadania francesas."
+      },
       "source": "https://www.reuters.com/world/europe/critics-attack-anti-democratic-french-bill-making-rioters-pay-2026-10-27/",
       "addedAt": "2026-10-28"
     },
@@ -54,7 +94,15 @@
       "url": "https://www.instagram.com/rassemblementnational_fr/",
       "label": "Rassemblement National",
       "category": "extreme-right",
+      "country": "France",
       "reason": "Parti français classé à l'extrême droite, héritier du Front national. Son programme combine préférence ou priorité nationale, restrictions migratoires, durcissement de la politique de sécurité et souverainisme, dans un discours opposant le peuple aux élites politiques.",
+      "reasonTranslations": {
+        "en": "A French political party classified as far-right, and the successor to the National Front. Its platform combines national preference or priority, immigration restrictions, a tougher security policy, and sovereignty, all framed within a narrative that pits the people against the political elite.",
+        "es": "Partido francés clasificado como de extrema derecha, sucesor del Frente Nacional. Su programa combina la preferencia o prioridad nacional, las restricciones migratorias, el endurecimiento de la política de seguridad y el soberanismo, en un discurso que enfrenta al pueblo con las élites políticas.",
+        "de": "Eine französische Partei, die der extremen Rechten zugeordnet wird und aus dem Front National hervorgegangen ist. Ihr Programm verbindet nationale Präferenz oder Priorität, Einwanderungsbeschränkungen, eine Verschärfung der Sicherheitspolitik und Souveränismus in einem Diskurs, der das Volk den politischen Eliten gegenüberstellt.",
+        "it": "Partito francese classificato come di estrema destra, erede del Front National. Il suo programma combina la preferenza o priorità nazionale, le restrizioni all’immigrazione, l’inasprimento della politica di sicurezza e il sovranismo, in un discorso che contrappone il popolo alle élite politiche.",
+        "pt_BR": "Partido francês classificado como de extrema direita, sucessor da Frente Nacional. Seu programa combina preferência ou prioridade nacional, restrições à imigração, endurecimento da política de segurança e soberanismo, em um discurso que opõe o povo às elites políticas."
+      },
       "source": "https://www.reuters.com/world/europe/critics-attack-anti-democratic-french-bill-making-rioters-pay-2026-10-27/",
       "addedAt": "2026-10-28"
     },
@@ -63,7 +111,15 @@
       "url": "https://www.instagram.com/reconquete_officiel/",
       "label": "Reconquête !",
       "category": "extreme-right",
+      "country": "France",
       "reason": "Parti d'extrême droite fondé par Éric Zemmour. Son programme met au centre l'identité nationale, la lutte contre ce qu'il nomme le « grand remplacement », la réduction drastique de l'immigration et l'assimilation culturelle, dans une orientation national-conservatrice.",
+      "reasonTranslations": {
+        "en": "A far-right party founded by Éric Zemmour. Its platform focuses on national identity, the fight against what it calls the “Great Replacement,” a drastic reduction in immigration, and cultural assimilation, within a national-conservative framework.",
+        "es": "Partido de extrema derecha fundado por Éric Zemmour. Su programa se centra en la identidad nacional, la lucha contra lo que él denomina el «gran reemplazo», la reducción drástica de la inmigración y la asimilación cultural, con una orientación nacional-conservadora.",
+        "de": "Eine von Éric Zemmour gegründete rechtsextreme Partei. Im Mittelpunkt ihres Programms stehen die nationale Identität, der Kampf gegen das, was er als „großen Austausch“ bezeichnet, die drastische Reduzierung der Einwanderung sowie die kulturelle Assimilation, und zwar im Rahmen einer nationalkonservativen Ausrichtung.",
+        "it": "Partito di estrema destra fondato da Éric Zemmour. Il suo programma pone al centro l'identità nazionale, la lotta contro ciò che definisce il «grande rimpiazzo», la drastica riduzione dell'immigrazione e l'assimilazione culturale, in un'ottica nazional-conservatrice.",
+        "pt_BR": "Partido de extrema direita fundado por Éric Zemmour. Seu programa tem como eixos centrais a identidade nacional, a luta contra o que ele denomina de “grande substituição”, a redução drástica da imigração e a assimilação cultural, dentro de uma orientação nacional-conservadora."
+      },
       "source": "https://www.senspo.fr/parti/fr-reconquete",
       "addedAt": "2026-10-28"
     },
@@ -72,7 +128,15 @@
       "url": "https://www.instagram.com/ericzemmour_/",
       "label": "Éric Zemmour",
       "category": "extreme-right",
+      "country": "France",
       "reason": "Fondateur de Reconquête, parti d'extrême droite. Il popularise la thèse du « grand remplacement », défend la « remigration » et des restrictions très importantes de l'immigration, et fait de l'identité culturelle et civilisationnelle française le cœur de son discours.",
+      "reasonTranslations": {
+        "en": "Founder of Reconquête, a far-right party. He promotes the theory of the “Great Replacement,” advocates for “remigration” and very strict immigration restrictions, and places French cultural and civilizational identity at the heart of his platform.",
+        "es": "Fundador de Reconquête, un partido de extrema derecha. Difunde la tesis del «gran reemplazo», defiende la «remigración» y unas restricciones muy estrictas a la inmigración, y sitúa la identidad cultural y civilizacional francesa en el centro de su discurso.",
+        "de": "Gründer der rechtsextremen Partei „Reconquête“. Er verbreitet die These vom „großen Austausch“, setzt sich für „Remigration“ und drastische Einschränkungen der Einwanderung ein und stellt die kulturelle und zivilisatorische Identität Frankreichs in den Mittelpunkt seines Programms.",
+        "it": "Fondatore di Reconquête, partito di estrema destra. Diffonde la tesi del «grande rimpiazzo», sostiene la «rimigrazione» e restrizioni molto severe all’immigrazione, e pone l’identità culturale e civile francese al centro del suo discorso.",
+        "pt_BR": "Fundador do Reconquête, partido de extrema direita. Ele divulga a tese da “grande substituição”, defende a “remigração” e restrições muito significativas à imigração, e faz da identidade cultural e civilizacional francesa o cerne de seu discurso."
+      },
       "source": "https://www.senspo.fr/parti/fr-reconquete",
       "addedAt": "2026-10-28"
     },
@@ -81,7 +145,15 @@
       "url": "https://www.instagram.com/afd.bund/",
       "label": "Alternative für Deutschland (AfD)",
       "category": "extreme-right",
+      "country": "Germany",
       "reason": "Parti allemand de droite radicale populiste, régulièrement qualifié d'extrême droite. Il mène des campagnes nationalistes et anti-immigration, critique l'islam et le multiculturalisme et défend la « remigration » ; certaines de ses composantes ont été surveillées pour extrémisme par les autorités allemandes.",
+      "reasonTranslations": {
+        "en": "A radical right-wing populist German party, often described as far-right. It runs nationalist and anti-immigration campaigns, criticizes Islam and multiculturalism, and advocates for “remigration”; some of its factions have been monitored by German authorities for extremism.",
+        "es": "Partido alemán populista de derecha radical, al que se suele calificar de extrema derecha. Lleva a cabo campañas nacionalistas y contra la inmigración, critica el islam y el multiculturalismo y defiende la «remigración»; algunas de sus facciones han sido objeto de vigilancia por parte de las autoridades alemanas por extremismo.",
+        "de": "Eine rechtsradikale, populistische deutsche Partei, die regelmäßig als rechtsextrem bezeichnet wird. Sie führt nationalistische und einwanderungskritische Kampagnen durch, kritisiert den Islam und den Multikulturalismus und setzt sich für die „Remigration“ ein; einige ihrer Gruppierungen wurden von den deutschen Behörden wegen Extremismus überwacht.",
+        "it": "Partito tedesco di destra radicale populista, spesso definito di estrema destra. Conduce campagne nazionaliste e anti-immigrazione, critica l’Islam e il multiculturalismo e sostiene la «rimigrazione»; alcune delle sue componenti sono state sottoposte a sorveglianza da parte delle autorità tedesche per estremismo.",
+        "pt_BR": "Partido alemão de direita radical populista, frequentemente classificado como de extrema direita. Ele conduz campanhas nacionalistas e anti-imigração, critica o islamismo e o multiculturalismo e defende a “remigração”; algumas de suas facções foram monitoradas pelas autoridades alemãs por suspeita de extremismo."
+      },
       "source": "https://www.reuters.com/world/europe/why-has-german-spy-agency-classified-far-right-afd-extremist-2025-05-02/",
       "addedAt": "2026-10-28"
     },
@@ -90,7 +162,15 @@
       "url": "https://www.instagram.com/legaofficial/",
       "label": "Lega per Salvini Premier",
       "category": "extreme-right",
+      "country": "Italy",
       "reason": "Parti italien de droite radicale populiste conduit par Matteo Salvini. Son programme met l'accent sur la fermeture des frontières, la lutte contre l'immigration irrégulière, le souverainisme et la défense d'une identité nationale et culturelle italienne.",
+      "reasonTranslations": {
+        "en": "A radical right-wing populist Italian party led by Matteo Salvini. Its platform emphasizes closing borders, combating illegal immigration, sovereignty, and the defense of Italy's national and cultural identity.",
+        "es": "Partido italiano de extrema derecha populista liderado por Matteo Salvini. Su programa se centra en el cierre de las fronteras, la lucha contra la inmigración irregular, el soberanismo y la defensa de la identidad nacional y cultural italiana.",
+        "de": "Eine radikalkonservative, populistische Partei in Italien unter der Führung von Matteo Salvini. Ihr Programm legt den Schwerpunkt auf die Schließung der Grenzen, die Bekämpfung der irregulären Einwanderung, Souveränismus und die Verteidigung der nationalen und kulturellen Identität Italiens.",
+        "it": "Partito italiano di destra radicale e populista guidato da Matteo Salvini. Il suo programma pone l'accento sulla chiusura delle frontiere, sulla lotta all'immigrazione irregolare, sul sovranismo e sulla difesa dell'identità nazionale e culturale italiana.",
+        "pt_BR": "Partido italiano de direita radical populista liderado por Matteo Salvini. Seu programa enfatiza o fechamento das fronteiras, o combate à imigração irregular, o soberanismo e a defesa da identidade nacional e cultural italiana."
+      },
       "source": "https://www.reuters.com/world/italys-league-leader-salvini-secures-reappointment-ahead-polls-next-year-2026-10-25/",
       "addedAt": "2026-10-28"
     },
@@ -99,7 +179,15 @@
       "url": "https://www.instagram.com/matteosalviniofficial/",
       "label": "Matteo Salvini",
       "category": "extreme-right",
+      "country": "Italy",
       "reason": "Dirigeant de la Lega, parti italien de droite radicale populiste. Il a fait des campagnes anti-immigration et de la fermeture des ports aux navires de secours des éléments centraux de son action, associés à un discours nationaliste, sécuritaire et eurosceptique.",
+      "reasonTranslations": {
+        "en": "Leader of the Lega, an Italian radical right-wing populist party. He has made anti-immigration campaigns and the closure of ports to rescue ships central tenets of his platform, combined with a nationalist, security-focused, and Euroskeptic rhetoric.",
+        "es": "Líder de la Lega, partido italiano de extrema derecha populista. Ha convertido las campañas contra la inmigración y el cierre de los puertos a los barcos de rescate en elementos centrales de su actuación, junto con un discurso nacionalista, centrada en la seguridad y euroescéptico.",
+        "de": "Vorsitzender der Lega, einer radikal-rechtspopulistischen italienischen Partei. Er hat Anti-Einwanderungs-Kampagnen und die Schließung der Häfen für Rettungsschiffe zu zentralen Elementen seines Handelns gemacht, verbunden mit einer nationalistischen, sicherheitsorientierten und euroskeptischen Rhetorik.",
+        "it": "Leader della Lega, partito italiano di destra radicale e populista. Ha fatto delle campagne contro l’immigrazione e della chiusura dei porti alle navi di soccorso gli elementi centrali della sua azione, associati a un discorso nazionalista, incentrato sulla sicurezza ed euroscettico.",
+        "pt_BR": "Líder da Lega, partido italiano de direita radical populista. Ele fez das campanhas contra a imigração e pelo fechamento dos portos aos navios de resgate os pontos centrais de sua atuação, associados a um discurso nacionalista, voltado para a segurança e eurocético."
+      },
       "source": "https://www.reuters.com/world/italys-league-leader-salvini-secures-reappointment-ahead-polls-next-year-2026-10-25/",
       "addedAt": "2026-10-28"
     },
@@ -108,7 +196,15 @@
       "url": "https://www.instagram.com/partidochega/",
       "label": "CHEGA",
       "category": "extreme-right",
+      "country": "Portugal",
       "reason": "Parti portugais classé dans la droite radicale populiste. Son programme associe nationalisme, restrictions migratoires, conservatisme social et durcissement des sanctions pénales ; son discours oppose fréquemment les citoyens aux élites et aux institutions politiques.",
+      "reasonTranslations": {
+        "en": "A Portuguese political party classified as part of the radical populist right. Its platform combines nationalism, immigration restrictions, social conservatism, and tougher criminal penalties; its rhetoric frequently pits ordinary citizens against elites and political institutions.",
+        "es": "Partido portugués clasificado dentro de la derecha populista radical. Su programa combina el nacionalismo, las restricciones migratorias, el conservadurismo social y el endurecimiento de las sanciones penales; en su discurso suele contraponer a los ciudadanos con las élites y las instituciones políticas.",
+        "de": "Eine portugiesische Partei, die dem radikalen populistischen Rechtsflügel zugeordnet wird. Ihr Programm verbindet Nationalismus, Einwanderungsbeschränkungen, sozialen Konservatismus und eine Verschärfung der strafrechtlichen Sanktionen; in ihren Äußerungen stellt sie häufig die Bürger den Eliten und politischen Institutionen gegenüber.",
+        "it": "Partito portoghese classificato nell'ala populista di destra radicale. Il suo programma combina nazionalismo, restrizioni all'immigrazione, conservatorismo sociale e inasprimento delle sanzioni penali; il suo discorso contrappone spesso i cittadini alle élite e alle istituzioni politiche.",
+        "pt_BR": "Partido português classificado como de direita radical populista. Seu programa combina nacionalismo, restrições à imigração, conservadorismo social e endurecimento das penas criminais; seu discurso frequentemente opõe os cidadãos às elites e às instituições políticas."
+      },
       "source": "https://www.reuters.com/world/portugals-far-right-chega-party-may-have-hit-its-ceiling-presidential-election-2026-02-09/",
       "addedAt": "2026-10-28"
     },
@@ -117,7 +213,15 @@
       "url": "https://www.instagram.com/santi_abascal/",
       "label": "Santiago Abascal / VOX",
       "category": "extreme-right",
+      "country": "Spain",
       "reason": "Président de Vox, formation espagnole de droite radicale populiste. Il défend un nationalisme espagnol centralisateur, une politique migratoire restrictive, la suppression de certaines politiques d'égalité et une forte opposition aux autonomies régionales.",
+      "reasonTranslations": {
+        "en": "President of Vox, a radical right-wing populist party in Spain. He advocates for a centralizing form of Spanish nationalism, a restrictive immigration policy, the elimination of certain equality policies, and strong opposition to regional autonomy.",
+        "es": "Presidente de Vox, formación española de extrema derecha populista. Defiende un nacionalismo español centralizador, una política migratoria restrictiva, la supresión de determinadas políticas de igualdad y una firme oposición a las comunidades autónomas.",
+        "de": "Vorsitzender von Vox, einer spanischen rechtsradikalen, populistischen Partei. Er vertritt einen zentralistischen spanischen Nationalismus, eine restriktive Migrationspolitik, die Abschaffung bestimmter Gleichstellungsmaßnahmen und eine entschiedene Ablehnung der regionalen Autonomie.",
+        "it": "Presidente di Vox, partito spagnolo di estrema destra populista. Sostiene un nazionalismo spagnolo centralizzatore, una politica migratoria restrittiva, l'abolizione di alcune politiche a favore della parità e una forte opposizione alle autonomie regionali.",
+        "pt_BR": "Presidente do Vox, partido espanhol de direita radical populista. Ele defende um nacionalismo espanhol centralizador, uma política migratória restritiva, a revogação de certas políticas de igualdade e uma forte oposição às autonomias regionais."
+      },
       "source": "https://www.reuters.com/world/far-right-surge-western-spain-shapes-outcome-regional-election-2025-12-22/",
       "addedAt": "2026-10-28"
     },
@@ -126,7 +230,15 @@
       "url": "https://www.instagram.com/fvdnl/",
       "label": "Forum voor Democratie",
       "category": "extreme-right",
+      "country": "Netherlands",
       "reason": "Parti néerlandais de droite radicale fondé par Thierry Baudet. Ses discours associent nationalisme identitaire, rejet de l'immigration et du multiculturalisme, références au « grand remplacement » et diffusion de théories complotistes.",
+      "reasonTranslations": {
+        "en": "A radical right-wing Dutch political party founded by Thierry Baudet. Its rhetoric combines identity-based nationalism, opposition to immigration and multiculturalism, references to the “Great Replacement,” and the promotion of conspiracy theories.",
+        "es": "Partido neerlandés de extrema derecha fundado por Thierry Baudet. Su discurso combina el nacionalismo identitario, el rechazo a la inmigración y al multiculturalismo, referencias al «gran reemplazo» y la difusión de teorías conspirativas.",
+        "de": "Eine von Thierry Baudet gegründete rechtsradikale niederländische Partei. In ihren Reden werden identitärer Nationalismus, Ablehnung von Einwanderung und Multikulturalismus, Verweise auf den „großen Austausch“ sowie die Verbreitung von Verschwörungstheorien miteinander verknüpft.",
+        "it": "Partito olandese di estrema destra fondato da Thierry Baudet. Il suo programma politico combina nazionalismo identitario, opposizione all’immigrazione e al multiculturalismo, riferimenti al «grande rimpiazzo» e diffusione di teorie complottistiche.",
+        "pt_BR": "Partido holandês de extrema direita fundado por Thierry Baudet. Seus discursos combinam nacionalismo identitário, rejeição à imigração e ao multiculturalismo, referências à “grande substituição” e divulgação de teorias da conspiração."
+      },
       "source": "https://www.rug.nl/research/dnpp/politieke-partijen/fvd/",
       "addedAt": "2026-10-29"
     },
@@ -135,7 +247,15 @@
       "url": "https://www.instagram.com/alice.weidel/",
       "label": "Alice Weidel",
       "category": "political-public-account",
+      "country": "Allemagne",
       "reason": "Coprésidente de l'AfD allemande, parti classé dans la droite radicale et fréquemment qualifié d'extrême droite. Elle défend la fermeture accrue des frontières, des expulsions élargies, la critique du multiculturalisme et un programme nationaliste et eurosceptique.",
+      "reasonTranslations": {
+        "en": "Co-chair of Germany's AfD, a party classified as radical right-wing and frequently described as far-right. She advocates for stricter border controls, expanded deportations, criticism of multiculturalism, and a nationalist and Euroskeptic platform.",
+        "es": "Copresidenta de la AfD alemana, partido clasificado dentro de la derecha radical y al que a menudo se califica de extrema derecha. Aboga por un mayor cierre de las fronteras, la ampliación de las expulsiones, la crítica al multiculturalismo y un programa nacionalista y euroescéptico.",
+        "de": "Ko-Vorsitzende der deutschen AfD, einer Partei, die dem radikalen rechten Spektrum zugeordnet und häufig als rechtsextrem bezeichnet wird. Sie setzt sich für eine verstärkte Abschottung der Grenzen, erweiterte Abschiebungen, Kritik am Multikulturalismus sowie ein nationalistische und euroskeptisches Programm ein.",
+        "it": "Copresidente dell'AfD tedesco, partito classificato come di destra radicale e spesso definito di estrema destra. Sostiene una maggiore chiusura delle frontiere, l'estensione delle espulsioni, la critica al multiculturalismo e un programma nazionalista ed euroscettico.",
+        "pt_BR": "Copresidente do partido alemão AfD, classificado como de direita radical e frequentemente descrito como de extrema direita. Ela defende um maior fechamento das fronteiras, a ampliação das deportações, a crítica ao multiculturalismo e um programa nacionalista e eurocético."
+      },
       "source": "https://www.europawahl-bw.de/parteien-rechtspopulismus-eu",
       "addedAt": "2026-10-29"
     },
@@ -144,7 +264,15 @@
       "url": "https://www.instagram.com/realdonaldtrump/",
       "label": "Donald Trump",
       "category": "political-public-account",
+      "country": "États-Unis",
       "reason": "Président américain et figure du mouvement MAGA. Il défend un nationalisme « America First », des expulsions massives de migrants et une politique frontalière répressive ; son discours populiste contre les élites et sa contestation des résultats de l'élection de 2020 sont largement documentés.",
+      "reasonTranslations": {
+        "en": "U.S. President and a leading figure in the MAGA movement. He advocates for “America First” nationalism, mass deportations of migrants, and a repressive border policy; his populist rhetoric against the elites and his challenge to the results of the 2020 election are well documented.",
+        "es": "Presidente de Estados Unidos y figura destacada del movimiento MAGA. Defiende un nacionalismo «America First», las expulsiones masivas de migrantes y una política fronteriza represiva; su discurso populista contra las élites y su impugnación de los resultados de las elecciones de 2020 están ampliamente documentados.",
+        "de": "US-Präsident und führende Persönlichkeit der MAGA-Bewegung. Er vertritt einen „America First“-Nationalismus, massive Abschiebungen von Migranten und eine repressive Grenzpolitik; seine populistischen Äußerungen gegen die Eliten und seine Anfechtung der Wahlergebnisse von 2020 sind umfassend dokumentiert.",
+        "it": "Presidente degli Stati Uniti e figura di spicco del movimento MAGA. Sostiene un nazionalismo «America First», le espulsioni di massa dei migranti e una politica repressiva in materia di frontiere; il suo discorso populista contro le élite e la sua contestazione dei risultati delle elezioni del 2020 sono ampiamente documentati.",
+        "pt_BR": "Presidente dos Estados Unidos e figura de destaque do movimento MAGA. Ele defende um nacionalismo do tipo “America First”, deportações em massa de migrantes e uma política repressiva nas fronteiras; seu discurso populista contra as elites e sua contestação dos resultados das eleições de 2020 são amplamente documentados."
+      },
       "source": "https://www.ap.org/news-highlights/spotlights/2025/elon-musk-helped-trump-win-now-hes-looking-at-europe-and-many-politicians-are-alarmed/",
       "addedAt": "2026-10-29"
     },
@@ -153,7 +281,15 @@
       "url": "https://www.instagram.com/f_philippot/",
       "label": "Florian Philippot",
       "category": "political-public-account",
+      "country": "France",
       "reason": "Ancien vice-président du Front national et fondateur des Patriotes. Son discours repose sur le souverainisme, la sortie des institutions européennes et la critique de l'immigration ; il a également pris des positions hostiles aux restrictions sanitaires durant la pandémie.",
+      "reasonTranslations": {
+        "en": "Former vice president of the National Front and founder of Les Patriotes. His platform is based on sovereignty, withdrawal from European institutions, and criticism of immigration; he also took a stance against public health restrictions during the pandemic.",
+        "es": "Exvicepresidente del Frente Nacional y fundador de Los Patriotas. Su discurso se basa en el soberanismo, la salida de las instituciones europeas y la crítica a la inmigración; además, ha adoptado posturas contrarias a las restricciones sanitarias durante la pandemia.",
+        "de": "Ehemaliger Vizepräsident des Front National und Gründer der Partei „Les Patriotes“. Seine Politik basiert auf Souveränismus, dem Austritt aus den europäischen Institutionen und der Kritik an der Einwanderung; zudem hat er sich während der Pandemie gegen die Corona-Maßnahmen ausgesprochen.",
+        "it": "Ex vicepresidente del Front National e fondatore dei Patriotes. Il suo programma politico si basa sul sovranismo, sull'uscita dalle istituzioni europee e sulla critica all'immigrazione; durante la pandemia ha inoltre assunto posizioni ostili alle restrizioni sanitarie.",
+        "pt_BR": "Ex-vice-presidente da Frente Nacional e fundador do partido Les Patriotes. Seu discurso gira em torno do soberanismo, da saída das instituições europeias e da crítica à imigração; ele também assumiu posições contrárias às restrições sanitárias durante a pandemia."
+      },
       "source": "https://www.publicsenat.fr/actualites/politique",
       "addedAt": "2026-10-29"
     },
@@ -162,7 +298,15 @@
       "url": "https://www.instagram.com/giorgiameloni/",
       "label": "Giorgia Meloni",
       "category": "political-public-account",
+      "country": "Italie",
       "reason": "Dirigeante de Fratelli d'Italia, parti national-conservateur issu de la tradition postfasciste italienne. Elle défend un programme restrictif sur l'immigration, la souveraineté nationale et des valeurs familiales traditionnelles.",
+      "reasonTranslations": {
+        "en": "A leader of Fratelli d'Italia, a national-conservative party rooted in Italy's post-fascist tradition. She advocates for a restrictive immigration policy, national sovereignty, and traditional family values.",
+        "es": "Líder de Fratelli d'Italia, un partido nacional-conservador que surge de la tradición posfascista italiana. Defiende un programa restrictivo en materia de inmigración, la soberanía nacional y los valores familiares tradicionales.",
+        "de": "Vorsitzende von „Fratelli d’Italia“, einer nationalkonservativen Partei, die aus der postfaschistischen Tradition Italiens hervorgegangen ist. Sie vertritt ein restriktives Programm in Bezug auf Einwanderung, nationale Souveränität und traditionelle Familienwerte.",
+        "it": "Leader di Fratelli d'Italia, partito nazional-conservatore che affonda le sue radici nella tradizione postfascista italiana. Sostiene un programma restrittivo in materia di immigrazione, a favore della sovranità nazionale e dei valori familiari tradizionali.",
+        "pt_BR": "Líder do Fratelli d'Italia, partido nacional-conservador que tem origem na tradição pós-fascista italiana. Ela defende um programa restritivo em relação à imigração, à soberania nacional e aos valores familiares tradicionais."
+      },
       "source": "https://popu-list.org/",
       "addedAt": "2026-10-29"
     },
@@ -171,7 +315,15 @@
       "url": "https://www.instagram.com/javiermilei/",
       "label": "Javier Milei",
       "category": "political-public-account",
+      "country": "Argentine",
       "reason": "Président argentin défendant un programme économique libertarien radical et des positions sociales conservatrices. Son discours anti-élite et ses alliances avec des formations de droite radicale à l'international conduisent certains chercheurs à le rapprocher de la droite radicale populiste.",
+      "reasonTranslations": {
+        "en": "An Argentine president who advocates a radical libertarian economic agenda and conservative social policies. His anti-elite rhetoric and his alliances with radical right-wing groups internationally have led some scholars to classify him as part of the radical populist right.",
+        "es": "Presidente argentino que defiende un programa económico libertario radical y posturas sociales conservadoras. Su discurso contra las élites y sus alianzas con formaciones de extrema derecha a nivel internacional llevan a algunos investigadores a situarlo en el ámbito de la extrema derecha populista.",
+        "de": "Argentinischer Präsident, der ein radikal libertäres Wirtschaftsprogramm und konservative gesellschaftspolitische Positionen vertritt. Seine elitenfeindliche Rhetorik und seine Bündnisse mit radikal rechten Gruppierungen auf internationaler Ebene veranlassen einige Wissenschaftler dazu, ihn der radikal-populistischen Rechten zuzuordnen.",
+        "it": "Presidente argentino sostenitore di un programma economico libertario radicale e di posizioni sociali conservatrici. Il suo discorso anti-élite e le sue alleanze con formazioni di estrema destra a livello internazionale inducono alcuni studiosi ad associarlo alla destra populista radicale.",
+        "pt_BR": "Presidente argentino que defende um programa econômico libertário radical e posições sociais conservadoras. Seu discurso anti-elite e suas alianças com grupos de extrema direita no âmbito internacional levam alguns pesquisadores a associá-lo à extrema direita populista."
+      },
       "source": "https://www.reuters.com/world/argentinas-milei-criticizes-leviathan-un-speech-pledges-agenda-freedom-2024-09-24/",
       "addedAt": "2026-10-29"
     },
@@ -180,7 +332,15 @@
       "url": "https://www.instagram.com/messiha.jean/",
       "label": "Jean Messiha",
       "category": "political-public-account",
+      "country": "France",
       "reason": "Ancien cadre du Rassemblement national et soutien de Reconquête. Son discours public met en avant le nationalisme identitaire, l'opposition à l'immigration et la critique du multiculturalisme, dans le prolongement de ses engagements auprès de ces deux formations.",
+      "reasonTranslations": {
+        "en": "A former National Rally executive and supporter of Reconquête. His public statements emphasize identity-based nationalism, opposition to immigration, and criticism of multiculturalism, in line with his commitments to these two organizations.",
+        "es": "Antiguo dirigente del Rassemblement National y partidario de Reconquête. Su discurso público hace hincapié en el nacionalismo identitario, la oposición a la inmigración y la crítica al multiculturalismo, en consonancia con su compromiso con estas dos formaciones.",
+        "de": "Ehemaliger Funktionär des Rassemblement National und Anhänger von Reconquête. In seinen öffentlichen Äußerungen betont er den identitären Nationalismus, die Ablehnung der Einwanderung und die Kritik am Multikulturalismus, ganz im Sinne seines Engagements für diese beiden Gruppierungen.",
+        "it": "Ex dirigente del Rassemblement National e sostenitore di Reconquête. Il suo discorso pubblico mette in primo piano il nazionalismo identitario, l'opposizione all'immigrazione e la critica al multiculturalismo, in linea con il suo impegno a favore di queste due formazioni.",
+        "pt_BR": "Ex-dirigente do Rassemblement National e apoiador do Reconquête. Seu discurso público destaca o nacionalismo identitário, a oposição à imigração e a crítica ao multiculturalismo, em consonância com seus compromissos com essas duas formações."
+      },
       "source": "https://www.reuters.com/world/europe/critics-attack-anti-democratic-french-bill-making-rioters-pay-2026-10-27/",
       "addedAt": "2026-10-29"
     },
@@ -189,7 +349,15 @@
       "url": "https://www.instagram.com/marionmarechal_/",
       "label": "Marion Maréchal",
       "category": "political-public-account",
+      "country": "France",
       "reason": "Ancienne députée du Front national, passée par Reconquête et fondatrice d'Identité-Libertés. Elle défend un national-conservatisme identitaire, des restrictions migratoires, des valeurs sociales traditionnelles et le rapprochement des droites nationalistes.",
+      "reasonTranslations": {
+        "en": "A former National Front lawmaker who was previously affiliated with Reconquête and is the founder of Identité-Libertés. She advocates for identity-based national conservatism, immigration restrictions, traditional social values, and closer ties among nationalist right-wing groups.",
+        "es": "Exdiputada del Frente Nacional, que pasó por Reconquista y es fundadora de Identidad-Libertades. Defiende un nacional-conservadurismo identitario, las restricciones migratorias, los valores sociales tradicionales y el acercamiento entre las derechas nacionalistas.",
+        "de": "Ehemalige Abgeordnete des Front National, die zuvor bei Reconquête aktiv war und Gründerin von Identité-Libertés. Sie setzt sich für einen identitätsorientierten Nationalkonservatismus, Einwanderungsbeschränkungen, traditionelle soziale Werte und die Annäherung der nationalistischen Rechten ein.",
+        "it": "Ex deputata del Front National, ex membro di Reconquête e fondatrice di Identité-Libertés. Sostiene un nazional-conservatorismo identitario, restrizioni in materia di immigrazione, i valori sociali tradizionali e il ravvicinamento delle destre nazionaliste.",
+        "pt_BR": "Ex-deputada da Frente Nacional, que passou pelo partido Reconquête e é fundadora do Identité-Libertés. Ela defende um nacional-conservadorismo identitário, restrições à imigração, valores sociais tradicionais e a aproximação entre as direitas nacionalistas."
+      },
       "source": "https://www.reuters.com/world/europe/critics-attack-anti-democratic-french-bill-making-rioters-pay-2026-10-27/",
       "addedAt": "2026-10-29"
     },
@@ -198,7 +366,15 @@
       "url": "https://www.instagram.com/nigel_farage/",
       "label": "Nigel Farage",
       "category": "political-public-account",
+      "country": "Royaume-Uni",
       "reason": "Dirigeant de Reform UK et figure historique de l'UKIP et du Brexit. Il défend le souverainisme britannique, des restrictions fortes à l'immigration et un discours populiste contre les élites ; plusieurs chercheurs situent son courant dans la droite radicale populiste.",
+      "reasonTranslations": {
+        "en": "Leader of Reform UK and a long-standing figure in UKIP and the Brexit movement. He advocates for British sovereignty, strict immigration controls, and a populist stance against the elites; several scholars classify his political movement as part of the radical populist right.",
+        "es": "Líder de Reform UK y figura histórica del UKIP y del Brexit. Defiende el soberanismo británico, unas restricciones estrictas a la inmigración y un discurso populista contra las élites; varios investigadores sitúan su corriente en la derecha populista radical.",
+        "de": "Vorsitzender von Reform UK und historische Persönlichkeit der UKIP und der Brexit-Bewegung. Er setzt sich für die britische Souveränität, strenge Einwanderungsbeschränkungen und einen populistischen Diskurs gegen die Eliten ein; mehrere Wissenschaftler ordnen seine Strömung dem radikalen populistischen Rechtsflügel zu.",
+        "it": "Leader di Reform UK e figura storica dell'UKIP e della Brexit. Sostiene il sovranismo britannico, forti restrizioni all'immigrazione e un discorso populista contro le élite; diversi studiosi collocano la sua corrente nella destra populista radicale.",
+        "pt_BR": "Líder do Reform UK e figura histórica do UKIP e do Brexit. Ele defende o soberanismo britânico, restrições rigorosas à imigração e um discurso populista contra as elites; vários pesquisadores classificam sua corrente como pertencente à direita populista radical."
+      },
       "source": "https://link.springer.com/article/10.1057/s41293-025-00287-4",
       "addedAt": "2026-10-29"
     },
@@ -207,7 +383,15 @@
       "url": "https://www.instagram.com/nikolasferreiradm/",
       "label": "Nikolas Ferreira",
       "category": "political-public-account",
+      "country": "Brésil",
       "reason": "Député brésilien conservateur associé au bolsonarisme. Son activité politique porte notamment sur l'opposition aux politiques progressistes sur le genre, la défense de valeurs religieuses traditionnelles et le soutien à l'agenda politique de Jair Bolsonaro.",
+      "reasonTranslations": {
+        "en": "A conservative Brazilian congressman associated with Bolsonarism. His political activities focus in particular on opposing progressive gender policies, defending traditional religious values, and supporting Jair Bolsonaro’s political agenda.",
+        "es": "Diputado conservador brasileño vinculado al bolsonarismo. Su actividad política se centra, entre otras cosas, en la oposición a las políticas progresistas en materia de género, la defensa de los valores religiosos tradicionales y el apoyo a la agenda política de Jair Bolsonaro.",
+        "de": "Konservativer brasilianischer Abgeordneter, der mit dem Bolsonarismus in Verbindung gebracht wird. Seine politische Tätigkeit konzentriert sich insbesondere auf den Widerstand gegen progressive Geschlechterpolitik, die Verteidigung traditioneller religiöser Werte und die Unterstützung der politischen Agenda von Jair Bolsonaro.",
+        "it": "Deputato brasiliano conservatore legato al bolsonarismo. La sua attività politica si concentra in particolare sull'opposizione alle politiche progressiste in materia di genere, sulla difesa dei valori religiosi tradizionali e sul sostegno all'agenda politica di Jair Bolsonaro.",
+        "pt_BR": "Deputado brasileiro conservador ligado ao bolsonarismo. Sua atuação política concentra-se, principalmente, na oposição às políticas progressistas em matéria de gênero, na defesa dos valores religiosos tradicionais e no apoio à agenda política de Jair Bolsonaro."
+      },
       "source": "https://www.reuters.com/world/americas/why-some-young-brazilian-voters-are-abandoning-lula-2026-06-24/",
       "addedAt": "2026-10-29"
     },
@@ -216,7 +400,15 @@
       "url": "https://www.instagram.com/sarahknafo1/",
       "label": "Sarah Knafo",
       "category": "political-public-account",
+      "country": "France",
       "reason": "Responsable de Reconquête, parti d'extrême droite fondé par Éric Zemmour. Elle défend un programme souverainiste, des restrictions migratoires fortes et une conception national-conservatrice de l'identité française.",
+      "reasonTranslations": {
+        "en": "Head of Reconquête, a far-right party founded by Éric Zemmour. She advocates a sovereignist platform, strict immigration restrictions, and a national-conservative conception of French identity.",
+        "es": "Responsable de «Reconquête», partido de extrema derecha fundado por Éric Zemmour. Defiende un programa soberanista, fuertes restricciones migratorias y una concepción nacional-conservadora de la identidad francesa.",
+        "de": "Leiterin von „Reconquête“, einer von Éric Zemmour gegründeten rechtsextremen Partei. Sie vertritt ein souveränistisches Programm, strenge Einwanderungsbeschränkungen und ein nationalkonservatives Verständnis der französischen Identität.",
+        "it": "Responsabile di Reconquête, partito di estrema destra fondato da Éric Zemmour. Sostiene un programma sovranista, severe restrizioni in materia di immigrazione e una concezione nazional-conservatrice dell'identità francese.",
+        "pt_BR": "Responsável pelo partido Reconquête, de extrema direita, fundado por Éric Zemmour. Ela defende um programa soberanista, restrições rigorosas à imigração e uma concepção nacional-conservadora da identidade francesa."
+      },
       "source": "https://www.senspo.fr/parti/fr-reconquete",
       "addedAt": "2026-10-29"
     },
@@ -225,7 +417,15 @@
       "url": "https://www.instagram.com/tuckercarlson/",
       "label": "Tucker Carlson",
       "category": "political-public-account",
+      "country": "États-Unis",
       "reason": "Commentateur américain national-conservateur, ancien présentateur de Fox News. Il a popularisé des récits proches de la théorie du « grand remplacement », dénoncé l'immigration comme une menace démographique et donné une tribune à des figures de l'extrême droite américaine.",
+      "reasonTranslations": {
+        "en": "An American national-conservative commentator and former Fox News anchor. He has popularized narratives closely aligned with the “Great Replacement” theory, denounced immigration as a demographic threat, and provided a platform for figures from the American far right.",
+        "es": "Comentarista estadounidense de tendencia nacional-conservadora y antiguo presentador de Fox News. Ha popularizado narrativas cercanas a la teoría del «gran reemplazo», ha denunciado la inmigración como una amenaza demográfica y ha dado voz a figuras de la extrema derecha estadounidense.",
+        "de": "US-amerikanischer nationalkonservativer Kommentator und ehemaliger Moderator bei Fox News. Er hat Darstellungen populär gemacht, die der Theorie des „großen Austauschs“ nahekommen, die Einwanderung als demografische Bedrohung angeprangert und Persönlichkeiten der amerikanischen extremen Rechten eine Plattform geboten.",
+        "it": "Commentatore americano di orientamento nazional-conservatore, ex conduttore di Fox News. Ha diffuso narrazioni vicine alla teoria del «grande rimpiazzo», ha denunciato l’immigrazione come una minaccia demografica e ha offerto una tribuna a esponenti dell’estrema destra americana.",
+        "pt_BR": "Comentarista americano nacional-conservador, ex-apresentador da Fox News. Ele popularizou narrativas próximas à teoria da “grande substituição”, denunciou a imigração como uma ameaça demográfica e deu espaço a figuras da extrema direita americana."
+      },
       "source": "https://www.splcenter.org/resources/extremist-files/tucker-carlson/",
       "addedAt": "2026-10-29"
     },
@@ -234,7 +434,15 @@
       "url": "https://www.instagram.com/orbanviktor/",
       "label": "Viktor Orbán",
       "category": "political-public-account",
+      "country": "Hongrie",
       "reason": "Dirigeant du Fidesz hongrois, connu pour sa revendication d'une « démocratie illibérale ». Il défend un nationalisme conservateur, des politiques anti-immigration, la primauté de la souveraineté nationale et des mesures critiquées pour leur effet sur l'indépendance des institutions.",
+      "reasonTranslations": {
+        "en": "A leader of Hungary's Fidesz party, known for advocating \"illiberal democracy.\" He advocates conservative nationalism, anti-immigration policies, the primacy of national sovereignty, and measures that have been criticized for their impact on the independence of institutions.",
+        "es": "Líder del partido húngaro Fidesz, conocido por defender una «democracia iliberal». Aboga por un nacionalismo conservador, políticas contra la inmigración, la primacía de la soberanía nacional y medidas criticadas por su repercusión en la independencia de las instituciones.",
+        "de": "Vorsitzender der ungarischen Fidesz-Partei, bekannt für sein Eintreten für eine „illiberale Demokratie“. Er vertritt einen konservativen Nationalismus, eine einwanderungsfeindliche Politik, den Vorrang der nationalen Souveränität sowie Maßnahmen, die wegen ihrer Auswirkungen auf die Unabhängigkeit der Institutionen kritisiert werden.",
+        "it": "Leader del partito ungherese Fidesz, noto per la sua difesa di una «democrazia illiberale». Sostiene un nazionalismo conservatore, politiche anti-immigrazione, il primato della sovranità nazionale e misure criticate per il loro impatto sull'indipendenza delle istituzioni.",
+        "pt_BR": "Líder do partido húngaro Fidesz, conhecido por defender uma “democracia iliberal”. Ele defende um nacionalismo conservador, políticas anti-imigração, a primazia da soberania nacional e medidas criticadas por seu impacto sobre a independência das instituições."
+      },
       "source": "https://popu-list.org/",
       "addedAt": "2026-10-29"
     },
@@ -243,7 +451,15 @@
       "url": "https://www.instagram.com/officialbenshapiro/",
       "label": "Ben Shapiro",
       "category": "political-public-account",
+      "country": "États-Unis",
       "reason": "Commentateur conservateur américain et cofondateur du Daily Wire. Il défend des positions anti-avortement, le libre marché et des politiques migratoires restrictives, mais a aussi condamné publiquement l'alt-right et des figures du nationalisme blanc.",
+      "reasonTranslations": {
+        "en": "An American conservative commentator and co-founder of The Daily Wire. He advocates for anti-abortion stances, free-market principles, and restrictive immigration policies, but has also publicly condemned the alt-right and figures associated with white nationalism.",
+        "es": "Comentarista conservador estadounidense y cofundador de The Daily Wire. Defiende posturas contrarias al aborto, el libre mercado y políticas migratorias restrictivas, pero también ha condenado públicamente a la «alt-right» y a figuras del nacionalismo blanco.",
+        "de": "US-amerikanischer konservativer Kommentator und Mitbegründer des Daily Wire. Er vertritt eine ablehnende Haltung gegenüber Abtreibungen, setzt sich für den freien Markt und eine restriktive Einwanderungspolitik ein, hat jedoch auch die Alt-Right-Bewegung und Persönlichkeiten des weißen Nationalismus öffentlich verurteilt.",
+        "it": "Commentatore conservatore statunitense e cofondatore del Daily Wire. Sostiene posizioni contrarie all’aborto, il libero mercato e politiche migratorie restrittive, ma ha anche condannato pubblicamente l’alt-right e alcune figure del nazionalismo bianco.",
+        "pt_BR": "Comentarista conservador americano e cofundador do Daily Wire. Ele defende posições contra o aborto, o livre mercado e políticas migratórias restritivas, mas também condenou publicamente a alt-right e figuras do nacionalismo branco."
+      },
       "source": "https://www.newyorker.com/news/the-new-yorker-interview/ben-shapiro-on-trump-tucker-carlson-and-the-future-of-the-right",
       "addedAt": "2026-10-29"
     },
@@ -252,7 +468,15 @@
       "url": "https://www.instagram.com/flaviobolsonaro/",
       "label": "Flávio Bolsonaro",
       "category": "political-public-account",
+      "country": "Brésil",
       "reason": "Homme politique brésilien, fils de Jair Bolsonaro, engagé dans le courant bolsonariste. Son positionnement associe soutien au programme sécuritaire et conservateur de ce mouvement, valeurs familiales traditionnelles et proximité avec la droite nationaliste brésilienne.",
+      "reasonTranslations": {
+        "en": "A Brazilian politician and the son of Jair Bolsonaro, he is a member of the Bolsonarista movement. His political stance combines support for the movement’s security-focused and conservative agenda, traditional family values, and close ties to Brazil’s nationalist right.",
+        "es": "Político brasileño, hijo de Jair Bolsonaro, afiliado a la corriente bolsonarista. Su postura combina el apoyo al programa conservador y de seguridad de este movimiento, los valores familiares tradicionales y su cercanía a la derecha nacionalista brasileña.",
+        "de": "Brasilianischer Politiker, Sohn von Jair Bolsonaro, der sich der Bolsonaristen-Bewegung angeschlossen hat. Seine politische Haltung verbindet die Unterstützung des sicherheitspolitischen und konservativen Programms dieser Bewegung mit traditionellen Familienwerten und einer Nähe zur brasilianischen nationalistischen Rechten.",
+        "it": "Politico brasiliano, figlio di Jair Bolsonaro, esponente della corrente bolsonarista. La sua posizione combina il sostegno al programma conservatore e incentrato sulla sicurezza di questo movimento, i valori familiari tradizionali e la vicinanza alla destra nazionalista brasiliana.",
+        "pt_BR": "Político brasileiro, filho de Jair Bolsonaro, ligado à corrente bolsonarista. Sua posição combina o apoio ao programa de segurança e conservadorismo desse movimento, valores familiares tradicionais e proximidade com a direita nacionalista brasileira."
+      },
       "source": "https://www.reuters.com/world/americas/bolsonaros-leadership-claim-fails-win-support-allies-brazil-2026-10-29/",
       "addedAt": "2026-10-29"
     },
@@ -261,7 +485,15 @@
       "url": "https://www.instagram.com/georgesimion.oficial/",
       "label": "George Simion",
       "category": "political-public-account",
+      "country": "Roumanie",
       "reason": "Dirigeant d'AUR, parti roumain régulièrement classé à l'extrême droite. Il défend un nationalisme roumain, le conservatisme religieux, des positions restrictives sur l'immigration et un discours souverainiste critique de certaines politiques européennes.",
+      "reasonTranslations": {
+        "en": "Leader of AUR, a Romanian party consistently classified as far-right. He advocates for Romanian nationalism, religious conservatism, restrictive stances on immigration, and a sovereignist stance critical of certain European policies.",
+        "es": "Líder de AUR, partido rumano que suele clasificarse como de extrema derecha. Defiende el nacionalismo rumano, el conservadurismo religioso, posturas restrictivas en materia de inmigración y un discurso soberanista crítico con determinadas políticas europeas.",
+        "de": "Vorsitzender der AUR, einer rumänischen Partei, die regelmäßig der extremen Rechten zugeordnet wird. Er vertritt einen rumänischen Nationalismus, religiösen Konservatismus, restriktive Positionen zur Einwanderung sowie einen souveränistischen Diskurs, der bestimmte europäische Politiken kritisiert.",
+        "it": "Leader dell'AUR, partito rumeno comunemente classificato come di estrema destra. Sostiene il nazionalismo rumeno, il conservatorismo religioso, posizioni restrittive in materia di immigrazione e un discorso sovranista critico nei confronti di alcune politiche europee.",
+        "pt_BR": "Líder do AUR, partido romeno frequentemente classificado como de extrema direita. Ele defende o nacionalismo romeno, o conservadorismo religioso, posições restritivas em relação à imigração e um discurso soberanista crítico em relação a certas políticas europeias."
+      },
       "source": "https://www.reuters.com/world/europe/romanian-far-right-candidate-george-simion-wins-first-round-presidential-election-2025-05-04/",
       "addedAt": "2026-10-29"
     },
@@ -270,7 +502,15 @@
       "url": "https://www.instagram.com/tanguyjeanphilippe/",
       "label": "Jean-Philippe Tanguy",
       "category": "political-public-account",
+      "country": "France",
       "reason": "Député et responsable du Rassemblement national, parti français classé à l'extrême droite. Il porte notamment la ligne souverainiste et économique du RN, qui associe priorité nationale, protectionnisme et restrictions de l'immigration.",
+      "reasonTranslations": {
+        "en": "A member of the National Assembly and a leader of the National Rally, a French party classified as far-right. In particular, he champions the National Rally’s sovereignist and economic agenda, which combines national priority, protectionism, and immigration restrictions.",
+        "es": "Diputado y dirigente del Rassemblement National, partido francés considerado de extrema derecha. Defiende, en particular, la línea soberanista y económica del RN, que combina la prioridad nacional, el proteccionismo y las restricciones a la inmigración.",
+        "de": "Abgeordneter und Verantwortlicher des Rassemblement National, einer französischen Partei, die der extremen Rechten zugeordnet wird. Er vertritt insbesondere die souveränistische und wirtschaftspolitische Linie des RN, die nationale Prioritäten, Protektionismus und Einwanderungsbeschränkungen miteinander verbindet.",
+        "it": "Deputato e dirigente del Rassemblement National, partito francese classificato nell'estrema destra. È in particolare il portavoce della linea sovranista ed economica del RN, che coniuga priorità nazionale, protezionismo e restrizioni all'immigrazione.",
+        "pt_BR": "Deputado e líder do Rassemblement National, partido francês classificado como de extrema direita. Ele defende, em particular, a linha soberanista e econômica do RN, que combina prioridade nacional, protecionismo e restrições à imigração."
+      },
       "source": "https://www.reuters.com/world/europe/critics-attack-anti-democratic-french-bill-making-rioters-pay-2026-10-27/",
       "addedAt": "2026-10-29"
     },
@@ -279,7 +519,15 @@
       "url": "https://www.instagram.com/joseantoniokast/",
       "label": "José Antonio Kast",
       "category": "political-public-account",
+      "country": "Chili",
       "reason": "Fondateur du Parti républicain chilien et figure de la droite radicale populiste latino-américaine selon des études universitaires. Il défend un nationalisme conservateur, un contrôle migratoire renforcé, la fermeté pénale et des valeurs familiales traditionnelles.",
+      "reasonTranslations": {
+        "en": "Founder of the Chilean Republican Party and, according to academic studies, a leading figure in the radical populist right in Latin America. He advocates for conservative nationalism, stricter immigration controls, a tough stance on crime, and traditional family values.",
+        "es": "Fundador del Partido Republicano de Chile y figura destacada de la derecha populista radical latinoamericana, según diversos estudios universitarios. Defiende un nacionalismo conservador, un control migratorio más estricto, la firmeza en materia penal y los valores familiares tradicionales.",
+        "de": "Gründer der chilenischen Republikanischen Partei und laut wissenschaftlichen Studien eine Leitfigur der radikal-populistischen Rechten in Lateinamerika. Er setzt sich für einen konservativen Nationalismus, eine verschärfte Einwanderungskontrolle, eine harte Strafverfolgung und traditionelle Familienwerte ein.",
+        "it": "Fondatore del Partito Repubblicano cileno e figura di spicco della destra radicale populista latinoamericana, secondo alcuni studi universitari. Sostiene un nazionalismo conservatore, un controllo più rigoroso dell'immigrazione, una linea dura in materia penale e i valori familiari tradizionali.",
+        "pt_BR": "Fundador do Partido Republicano do Chile e figura de destaque da direita radical populista latino-americana, segundo estudos acadêmicos. Ele defende um nacionalismo conservador, um controle mais rigoroso da imigração, uma postura firme em matéria penal e os valores familiares tradicionais."
+      },
       "source": "https://icsoh.udp.cl/publicacion/the-arrival-of-the-populist-radical-right-in-chile-jose-antonio-kast-and-the-partido-republicano/",
       "addedAt": "2026-10-29"
     },
@@ -288,7 +536,15 @@
       "url": "https://www.instagram.com/julien.rochedy/",
       "label": "Julien Rochedy",
       "category": "political-public-account",
+      "country": "France",
       "reason": "Essayiste et ancien dirigeant du Front national de la jeunesse. Il défend une pensée identitaire centrée sur l'héritage européen, un conservatisme social marqué et des positions critiques du féminisme et du multiculturalisme.",
+      "reasonTranslations": {
+        "en": "An essayist and former leader of the National Front Youth. He advocates an identity-based ideology centered on European heritage, a strongly social conservatism, and positions critical of feminism and multiculturalism.",
+        "es": "Ensayista y antiguo dirigente del Frente Nacional de la Juventud. Defiende un pensamiento identitario centrado en el legado europeo, un conservadurismo social marcado y posturas críticas con el feminismo y el multiculturalismo.",
+        "de": "Essayist und ehemaliger Vorsitzender der Jugendorganisation des Front National. Er vertritt eine identitätsorientierte Denkweise, deren Schwerpunkt auf dem europäischen Erbe liegt, einen ausgeprägten sozialen Konservatismus sowie kritische Positionen gegenüber dem Feminismus und dem Multikulturalismus.",
+        "it": "Saggista ed ex dirigente del Fronte Nazionale della Gioventù. Sostiene una visione identitaria incentrata sul patrimonio europeo, un conservatorismo sociale marcato e posizioni critiche nei confronti del femminismo e del multiculturalismo.",
+        "pt_BR": "Ensaísta e ex-dirigente da Frente Nacional da Juventude. Ele defende uma visão identitária centrada na herança europeia, um conservadorismo social marcante e posições críticas em relação ao feminismo e ao multiculturalismo."
+      },
       "source": "https://www.leparisien.fr/recherche/?query=Julien%20Rochedy",
       "addedAt": "2026-10-29"
     },
@@ -297,7 +553,15 @@
       "url": "https://www.instagram.com/hon.maximebernier/",
       "label": "Maxime Bernier",
       "category": "political-public-account",
+      "country": "Canada",
       "reason": "Fondateur du Parti populaire du Canada, formation national-populiste opposée à l'immigration de masse et au multiculturalisme officiel. Son discours combine libertarianisme économique, souverainisme et critiques des politiques d'identité et de diversité.",
+      "reasonTranslations": {
+        "en": "Founder of the People's Party of Canada, a national-populist party opposed to mass immigration and official multiculturalism. His platform combines economic libertarianism, sovereignty, and criticism of identity and diversity policies.",
+        "es": "Fundador del Partido Popular de Canadá, una formación nacional-populista contraria a la inmigración masiva y al multiculturalismo oficial. Su discurso combina el libertarismo económico, el soberanismo y las críticas a las políticas de identidad y diversidad.",
+        "de": "Gründer der Volkspartei Kanadas, einer national-populistischen Partei, die sich gegen Masseneinwanderung und den offiziellen Multikulturalismus ausspricht. Seine Politik verbindet wirtschaftlichen Libertarismus, Souveränismus und Kritik an der Identitäts- und Diversitätspolitik.",
+        "it": "Fondatore del Partito Popolare del Canada, formazione nazional-populista contraria all'immigrazione di massa e al multiculturalismo ufficiale. Il suo discorso combina libertarismo economico, sovranismo e critiche alle politiche identitarie e di diversità.",
+        "pt_BR": "Fundador do Partido Popular do Canadá, uma formação nacional-populista contrária à imigração em massa e ao multiculturalismo oficial. Seu discurso combina libertarianismo econômico, soberanismo e críticas às políticas de identidade e diversidade."
+      },
       "source": "https://www.cambridge.org/core/journals/canadian-journal-of-political-science-revue-canadienne-de-science-politique/article/canada-still-the-exception-populist-communication-styles-among-canadian-federal-leaders-on-x-twitter/C75983E7335672B24A93A2FEE81AFDF5",
       "addedAt": "2026-10-29"
     },
@@ -306,7 +570,15 @@
       "url": "https://www.instagram.com/sebastien_chenu/",
       "label": "Sébastien Chenu",
       "category": "political-public-account",
+      "country": "France",
       "reason": "Député et responsable du Rassemblement national, parti d'extrême droite. Il défend dans son action politique les propositions du RN relatives à la priorité nationale, à la réduction de l'immigration et au renforcement de la sécurité.",
+      "reasonTranslations": {
+        "en": "A member of the National Assembly and a leader of the far-right National Rally (RN). In his political work, he advocates for the RN's proposals regarding national priorities, reducing immigration, and strengthening security.",
+        "es": "Diputado y dirigente del Rassemblement National, partido de extrema derecha. En su actuación política defiende las propuestas del RN relativas a la prioridad nacional, la reducción de la inmigración y el refuerzo de la seguridad.",
+        "de": "Abgeordneter und Verantwortlicher des Rassemblement National, einer rechtsextremen Partei. In seinem politischen Handeln setzt er sich für die Vorschläge des RN in Bezug auf die nationale Priorität, die Eindämmung der Einwanderung und die Stärkung der Sicherheit ein.",
+        "it": "Deputato e dirigente del Rassemblement National, partito di estrema destra. Nella sua attività politica sostiene le proposte del RN relative alla priorità nazionale, alla riduzione dell'immigrazione e al rafforzamento della sicurezza.",
+        "pt_BR": "Deputado e dirigente do Rassemblement National, partido de extrema direita. Em sua atuação política, ele defende as propostas do RN relativas à prioridade nacional, à redução da imigração e ao reforço da segurança."
+      },
       "source": "https://www.reuters.com/world/europe/critics-attack-anti-democratic-french-bill-making-rioters-pay-2026-10-27/",
       "addedAt": "2026-10-29"
     },
@@ -315,7 +587,15 @@
       "url": "https://www.instagram.com/alice_cordier_/",
       "label": "Alice Cordier",
       "category": "political-public-account",
+      "country": "France",
       "reason": "Militante française fondatrice du collectif féministe identitaire Némésis. Son discours associe dénonciation des violences faites aux femmes, mise en cause de l'immigration et opposition à l'islam politique, dans un cadre nationaliste identitaire.",
+      "reasonTranslations": {
+        "en": "A French activist and founder of the feminist identity collective Némésis. Her rhetoric combines condemnation of violence against women, criticism of immigration, and opposition to political Islam, all within a nationalist identity framework.",
+        "es": "Activista francesa y fundadora del colectivo feminista identitario Némésis. Su discurso combina la denuncia de la violencia contra las mujeres, la crítica a la inmigración y la oposición al islam político, dentro de un marco nacionalista identitario.",
+        "de": "Französische Aktivistin und Gründerin des identitären feministischen Kollektivs „Némésis“. In ihren Äußerungen verbindet sie die Anprangerung von Gewalt gegen Frauen, die Kritik an der Einwanderung und den Widerstand gegen den politischen Islam in einem nationalistischen, identitären Rahmen.",
+        "it": "Attivista francese, fondatrice del collettivo femminista identitario Némésis. Il suo discorso unisce la denuncia delle violenze contro le donne, la critica all’immigrazione e l’opposizione all’Islam politico, in un contesto nazionalista identitario.",
+        "pt_BR": "Ativista francesa, fundadora do coletivo feminista identitário Némésis. Seu discurso combina a denúncia da violência contra as mulheres, o questionamento da imigração e a oposição ao islamismo político, dentro de uma perspectiva nacionalista identitária."
+      },
       "source": "https://www.lemonde.fr/recherche/?keywords=Alice%20Cordier%20Nemesis",
       "addedAt": "2026-10-29"
     },
@@ -324,7 +604,15 @@
       "url": "https://www.instagram.com/andre_ventura_oficial/",
       "label": "André Ventura",
       "category": "political-public-account",
+      "country": "Portugal",
       "reason": "Fondateur et dirigeant de Chega, parti portugais classé à l'extrême droite ou dans la droite radicale populiste. Il défend un durcissement des politiques migratoires et pénales, un nationalisme conservateur et un discours populiste contre les élites politiques.",
+      "reasonTranslations": {
+        "en": "Founder and leader of Chega, a Portuguese party classified as far-right or radical right-wing populist. He advocates for tougher immigration and criminal justice policies, conservative nationalism, and a populist rhetoric directed against the political elite.",
+        "es": "Fundador y líder de Chega, partido portugués clasificado como de extrema derecha o de derecha radical populista. Aboga por un endurecimiento de las políticas migratorias y penales, un nacionalismo conservador y un discurso populista contra las élites políticas.",
+        "de": "Gründer und Vorsitzender von Chega, einer portugiesischen Partei, die der extremen Rechten oder der radikalen populistischen Rechten zugeordnet wird. Er setzt sich für eine Verschärfung der Migrations- und Strafpolitik, einen konservativen Nationalismus und einen populistischen Diskurs gegen die politischen Eliten ein.",
+        "it": "Fondatore e leader di Chega, partito portoghese classificato nell'estrema destra o nella destra radicale populista. Sostiene un inasprimento delle politiche migratorie e penali, un nazionalismo conservatore e un discorso populista contro le élite politiche.",
+        "pt_BR": "Fundador e líder do Chega, partido português classificado como de extrema direita ou de direita radical populista. Ele defende um endurecimento das políticas migratórias e penais, um nacionalismo conservador e um discurso populista contra as elites políticas."
+      },
       "source": "https://popu-list.org/",
       "addedAt": "2026-10-29"
     },
@@ -333,7 +621,15 @@
       "url": "https://www.instagram.com/konfederacja_/",
       "label": "Konfederacja",
       "category": "political-public-account",
+      "country": "Poland",
       "reason": "Coalition polonaise réunissant notamment des courants nationalistes, ultraconservateurs et libertariens. Une partie de ses composantes est classée à l'extrême droite, avec des discours anti-immigration, eurosceptiques et hostiles aux politiques progressistes.",
+      "reasonTranslations": {
+        "en": "A Polish coalition comprising, among others, nationalist, ultra-conservative, and libertarian groups. Some of its members are classified as far-right, espousing anti-immigration, Euroskeptic, and anti-progressive views.",
+        "es": "Coalición polaca que agrupa, entre otros, a corrientes nacionalistas, ultraconservadoras y libertarias. Una parte de sus componentes se clasifica dentro de la extrema derecha, con discursos antiinmigración, euroescépticos y hostiles hacia las políticas progresistas.",
+        "de": "Polnische Koalition, in der unter anderem nationalistische, ultrakonservative und libertäre Strömungen vertreten sind. Ein Teil ihrer Mitglieder wird der extremen Rechten zugeordnet und vertritt eine einwanderungsfeindliche, euroskeptische und progressiven politischen Maßnahmen ablehnende Haltung.",
+        "it": "Coalizione polacca che riunisce, tra l'altro, correnti nazionaliste, ultraconservatrici e libertarie. Una parte dei suoi componenti è classificata come di estrema destra, con posizioni anti-immigrazione, euroscettiche e ostili alle politiche progressiste.",
+        "pt_BR": "Coalizão polonesa que reúne, entre outros, correntes nacionalistas, ultraconservadoras e libertárias. Parte de seus componentes é classificada como de extrema direita, com discursos anti-imigração, eurocéticos e hostis às políticas progressistas."
+      },
       "source": "https://popu-list.org/",
       "addedAt": "2026-10-29"
     },
@@ -343,6 +639,13 @@
       "label": "Harald Vilimsky",
       "category": "extreme-right",
       "reason": "Cadre et eurodéputé du FPÖ autrichien, parti de droite radicale populiste. Sa ligne souverainiste critique l'intégration européenne et soutient un durcissement de l'immigration et de l'asile, dans le cadre du nationalisme identitaire défendu par son parti.",
+      "reasonTranslations": {
+        "en": "A senior official and Member of the European Parliament for the Austrian FPÖ, a radical right-wing populist party. His sovereigntist stance criticizes European integration and advocates for stricter immigration and asylum policies, in line with the identity-based nationalism championed by his party.",
+        "es": "Dirigente y eurodiputado del FPÖ austriaco, un partido populista de extrema derecha. Su postura soberanista critica la integración europea y aboga por un endurecimiento de las políticas de inmigración y asilo, en el marco del nacionalismo identitario que defiende su partido.",
+        "de": "Führungskraft und Europaabgeordneter der österreichischen FPÖ, einer rechtsradikalen, populistischen Partei. Mit seiner souveränistischen Linie kritisiert er die europäische Integration und befürwortet eine Verschärfung der Einwanderungs- und Asylpolitik im Rahmen des von seiner Partei vertretenen identitären Nationalismus.",
+        "it": "Dirigente ed eurodeputato dell'FPÖ austriaco, partito populista di estrema destra. La sua linea sovranista critica l'integrazione europea e sostiene un inasprimento delle politiche in materia di immigrazione e asilo, nell'ambito del nazionalismo identitario difeso dal suo partito.",
+        "pt_BR": "Dirigente e eurodeputado do FPÖ austríaco, partido populista de extrema direita. Sua linha soberanista critica a integração europeia e defende um endurecimento das políticas de imigração e asilo, no âmbito do nacionalismo identitário defendido por seu partido."
+      },
       "source": "https://www.reuters.com/world/europe/austrias-polarising-far-right-leader-bids-become-chancellor-2025-01-06/",
       "addedAt": "2026-10-29"
     },
@@ -352,6 +655,13 @@
       "label": "Jimmie Åkesson",
       "category": "extreme-right",
       "reason": "Dirigeant des Démocrates de Suède, parti de droite radicale populiste aux origines historiques liées à des milieux néonazis. Il a contribué à sa normalisation électorale tout en défendant une réduction de l'immigration et une politique d'assimilation.",
+      "reasonTranslations": {
+        "en": "Leader of the Sweden Democrats, a radical right-wing populist party with historical ties to neo-Nazi circles. He has helped the party gain mainstream acceptance in elections while advocating for reduced immigration and a policy of assimilation.",
+        "es": "Líder de los Demócratas de Suecia, un partido populista de extrema derecha cuyos orígenes históricos están vinculados a los círculos neonazis. Ha contribuido a su normalización electoral, al tiempo que defiende una reducción de la inmigración y una política de asimilación.",
+        "de": "Vorsitzender der „Demokraten Schwedens“, einer rechtsradikalen, populistischen Partei, deren historische Wurzeln in neonazistischen Kreisen liegen. Er hat zu ihrer politischen Normalisierung beigetragen und setzt sich gleichzeitig für eine Einschränkung der Einwanderung und eine Assimilationspolitik ein.",
+        "it": "Leader dei Democratici di Svezia, partito populista di estrema destra le cui origini storiche sono legate agli ambienti neonazisti. Ha contribuito alla sua normalizzazione elettorale, sostenendo al contempo una riduzione dell'immigrazione e una politica di assimilazione.",
+        "pt_BR": "Líder dos Democratas da Suécia, partido populista de extrema direita cujas origens históricas estão ligadas a círculos neonazistas. Ele contribuiu para a normalização eleitoral do partido, ao mesmo tempo em que defende uma redução da imigração e uma política de assimilação."
+      },
       "source": "https://www.lemonde.fr/international/article/2025/06/26/en-suede-l-extreme-droite-rend-public-un-livre-blanc-sur-son-passe-antisemite-et-neonazi_6616052_3210.html",
       "addedAt": "2026-10-29"
     },
@@ -361,6 +671,13 @@
       "label": "Union panukrainienne « Liberté »",
       "category": "extreme-right",
       "reason": "Svoboda, parti ukrainien ultranationaliste issu du Parti social-national d'Ukraine. Il est étudié parmi les formations d'extrême droite en raison de son héritage ethnonationaliste et de ses références à des mouvements nationalistes ukrainiens historiques.",
+      "reasonTranslations": {
+        "en": "Svoboda, a Ukrainian ultranationalist party that emerged from the Social-National Party of Ukraine. It is classified as a far-right organization due to its ethnonationalist heritage and its references to historical Ukrainian nationalist movements.",
+        "es": "Svoboda, partido ultranacionalista ucraniano surgido del Partido Social-Nacional de Ucrania. Se le considera una formación de extrema derecha debido a su legado etnonacionalista y a sus referencias a movimientos nacionalistas ucranianos históricos.",
+        "de": "Svoboda, eine ukrainische ultranationalistische Partei, die aus der Sozialnationalistischen Partei der Ukraine hervorgegangen ist. Aufgrund ihres ethnonationalistischen Erbes und ihrer Bezüge zu historischen ukrainischen nationalistischen Bewegungen wird sie zu den rechtsextremen Gruppierungen gezählt.",
+        "it": "Svoboda, partito ucraino ultranazionalista nato dal Partito Social-Nazionale dell'Ucraina. È considerato una delle formazioni di estrema destra a causa della sua eredità etnonazionalista e dei suoi riferimenti ai movimenti nazionalisti ucraini storici.",
+        "pt_BR": "Svoboda, partido ultranacionalista ucraniano que teve origem no Partido Social-Nacional da Ucrânia. É considerado uma das formações de extrema direita devido à sua herança etnonacionalista e às suas referências a movimentos nacionalistas ucranianos históricos."
+      },
       "source": "https://academic.oup.com/edited-volume/43520/chapter-abstract/364491986",
       "addedAt": "2026-10-29"
     },
@@ -370,6 +687,13 @@
       "label": "Benjamin Netanyahou",
       "category": "extreme-right",
       "reason": "Dirigeant du Likoud, parti nationaliste de droite israélien. Il défend une politique sécuritaire ferme et les implantations israéliennes en Cisjordanie et a gouverné avec des partis qualifiés d'extrême droite, notamment Otzma Yehudit et le Sionisme religieux.",
+      "reasonTranslations": {
+        "en": "A leader of Likud, Israel's right-wing nationalist party. He advocates a hardline security policy and supports Israeli settlements in the West Bank, and has governed in coalition with parties described as far-right, notably Otzma Yehudit and Religious Zionism.",
+        "es": "Líder del Likud, partido nacionalista de derecha israelí. Defiende una política de seguridad firme y los asentamientos israelíes en Cisjordania, y ha gobernado junto a partidos calificados de extrema derecha, entre ellos Otzma Yehudit y el Sionismo Religioso.",
+        "de": "Vorsitzender des Likud, einer rechtsnationalistischen Partei Israels. Er vertritt eine harte Sicherheitspolitik und setzt sich für die israelischen Siedlungen im Westjordanland ein; außerdem hat er bereits mit Parteien regiert, die als rechtsextrem gelten, darunter Otzma Yehudit und der Religiöse Zionismus.",
+        "it": "Leader del Likud, partito nazionalista di destra israeliano. Sostiene una politica di sicurezza rigorosa e gli insediamenti israeliani in Cisgiordania e ha governato insieme a partiti definiti di estrema destra, in particolare Otzma Yehudit e il Sionismo religioso.",
+        "pt_BR": "Líder do Likud, partido nacionalista de direita israelense. Ele defende uma política de segurança firme e os assentamentos israelenses na Cisjordânia, e já governou em coalizão com partidos considerados de extrema direita, notadamente o Otzma Yehudit e o Sionismo Religioso."
+      },
       "source": "https://www.reuters.com/world/middle-east/key-people-israels-government-2024-05-16/",
       "addedAt": "2026-10-29"
     },
@@ -379,6 +703,13 @@
       "label": "Parti libéral-démocrate de Russie",
       "category": "extreme-right",
       "reason": "LDPR, parti russe ultranationaliste malgré son nom. Historiquement dirigé par Vladimir Jirinovski, il s'est illustré par un discours impérialiste russe, hostile aux migrants et favorable à une politique étrangère expansionniste.",
+      "reasonTranslations": {
+        "en": "The LDPR, a Russian ultranationalist party despite its name. Historically led by Vladimir Zhirinovsky, it has been known for its Russian imperialist rhetoric, its hostility toward migrants, and its support for an expansionist foreign policy.",
+        "es": "El LDPR, un partido ruso ultranacionalista a pesar de su nombre. Dirigido históricamente por Vladimir Zhirinovski, se ha caracterizado por un discurso imperialista ruso, hostil hacia los inmigrantes y favorable a una política exterior expansionista.",
+        "de": "Die LDPR ist trotz ihres Namens eine ultranationalistische russische Partei. Sie wird seit jeher von Wladimir Schirinowski geführt und zeichnet sich durch eine imperialistische, migrationsfeindliche und eine expansionistische Außenpolitik aus.",
+        "it": "Il LDPR, partito russo ultranazionalista nonostante il nome. Storicamente guidato da Vladimir Zhirinovsky, si è distinto per un discorso imperialista russo, ostile ai migranti e favorevole a una politica estera espansionistica.",
+        "pt_BR": "O LDPR, partido russo ultranacionalista, apesar do nome. Historicamente liderado por Vladimir Zhirinovsky, destacou-se por um discurso imperialista russo, hostil aos migrantes e favorável a uma política externa expansionista."
+      },
       "source": "https://www.britannica.com/topic/Liberal-Democratic-Party-of-Russia",
       "addedAt": "2026-10-29"
     },
@@ -388,6 +719,13 @@
       "label": "Parti d'action nationaliste",
       "category": "extreme-right",
       "reason": "MHP, parti turc ultranationaliste historiquement associé aux Loups gris. Il défend un nationalisme turc unitaire, un conservatisme social et des positions très fermes concernant le séparatisme kurde et la sécurité nationale.",
+      "reasonTranslations": {
+        "en": "MHP, a Turkish ultranationalist party historically associated with the Grey Wolves. It advocates for a unitary Turkish nationalism, social conservatism, and very firm stances on Kurdish separatism and national security.",
+        "es": "El MHP es un partido turco ultranacionalista vinculado históricamente a los Lobos Grises. Defiende un nacionalismo turco unitario, un conservadurismo social y posturas muy firmes respecto al separatismo kurdo y la seguridad nacional.",
+        "de": "Die MHP ist eine türkische ultranationalistische Partei, die historisch mit den „Grauen Wölfen“ in Verbindung steht. Sie vertritt einen einheitlichen türkischen Nationalismus, sozialen Konservatismus und eine sehr harte Haltung in Bezug auf den kurdischen Separatismus und die nationale Sicherheit.",
+        "it": "MHP, partito turco ultranazionalista storicamente legato ai Lupi Grigi. Sostiene un nazionalismo turco unitario, un conservatorismo sociale e posizioni molto rigide riguardo al separatismo curdo e alla sicurezza nazionale.",
+        "pt_BR": "O MHP é um partido ultranacionalista turco historicamente associado aos Lobos Cinzentos. Defende um nacionalismo turco unitário, um conservadorismo social e posições muito firmes em relação ao separatismo curdo e à segurança nacional."
+      },
       "source": "https://www.britannica.com/topic/Nationalist-Movement-Party",
       "addedAt": "2026-10-29"
     },
@@ -397,6 +735,13 @@
       "label": "Israel Katz",
       "category": "extreme-right",
       "reason": "Responsable du Likoud israélien, parti nationaliste de droite. Il défend l'expansion des colonies israéliennes en Cisjordanie, une politique sécuritaire dure et le maintien du contrôle israélien sur des territoires palestiniens.",
+      "reasonTranslations": {
+        "en": "Leader of Israel's Likud, a right-wing nationalist party. He advocates for the expansion of Israeli settlements in the West Bank, a hardline security policy, and the maintenance of Israeli control over Palestinian territories.",
+        "es": "Líder del Likud israelí, partido nacionalista de derecha. Defiende la expansión de los asentamientos israelíes en Cisjordania, una política de seguridad dura y el mantenimiento del control israelí sobre los territorios palestinos.",
+        "de": "Vorsitzender des israelischen Likud, einer rechtsnationalistischen Partei. Er setzt sich für den Ausbau der israelischen Siedlungen im Westjordanland, eine harte Sicherheitspolitik und die Aufrechterhaltung der israelischen Kontrolle über palästinensische Gebiete ein.",
+        "it": "Leader del Likud israeliano, partito nazionalista di destra. È favorevole all'espansione degli insediamenti israeliani in Cisgiordania, a una politica di sicurezza dura e al mantenimento del controllo israeliano sui territori palestinesi.",
+        "pt_BR": "Líder do Likud israelense, partido nacionalista de direita. Ele defende a expansão dos assentamentos israelenses na Cisjordânia, uma política de segurança dura e a manutenção do controle israelense sobre os territórios palestinos."
+      },
       "source": "https://www.reuters.com/world/middle-east/who-is-israel-katz-new-israeli-defence-minister-2024-11-05/",
       "addedAt": "2026-10-29"
     },
@@ -406,6 +751,13 @@
       "label": "Démocrates de Suède",
       "category": "extreme-right",
       "reason": "Parti suédois de droite radicale populiste, historiquement lié à des réseaux ultranationalistes et néonazis lors de sa fondation. Il défend une immigration restrictive, l'assimilation culturelle et une définition nationale de l'identité suédoise.",
+      "reasonTranslations": {
+        "en": "A radical right-wing populist party in Sweden, historically linked to ultranationalist and neo-Nazi networks at the time of its founding. It advocates for restrictive immigration policies, cultural assimilation, and a national definition of Swedish identity.",
+        "es": "Partido sueco de extrema derecha populista, vinculado históricamente a redes ultranacionalistas y neonazis desde su fundación. Defiende una política de inmigración restrictiva, la asimilación cultural y una definición nacional de la identidad sueca.",
+        "de": "Eine schwedische rechtsradikale, populistische Partei, die bei ihrer Gründung historisch mit ultranationalistischen und neonazistischen Netzwerken verbunden war. Sie setzt sich für eine restriktive Einwanderungspolitik, kulturelle Assimilation und eine nationale Definition der schwedischen Identität ein.",
+        "it": "Partito populista di estrema destra svedese, storicamente legato a reti ultranazionaliste e neonaziste sin dalla sua fondazione. Sostiene una politica restrittiva in materia di immigrazione, l'assimilazione culturale e una definizione nazionale dell'identità svedese.",
+        "pt_BR": "Partido sueco de direita radical populista, historicamente ligado a redes ultranacionalistas e neonazistas desde sua fundação. Defende uma política de imigração restritiva, a assimilação cultural e uma definição nacional da identidade sueca."
+      },
       "source": "https://www.lemonde.fr/international/article/2025/06/26/en-suede-l-extreme-droite-rend-public-un-livre-blanc-sur-son-passe-antisemite-et-neonazi_6616052_3210.html",
       "addedAt": "2026-10-29"
     },
@@ -415,6 +767,13 @@
       "label": "Parti des Finlandais",
       "category": "extreme-right",
       "reason": "Parti finlandais de droite radicale populiste. Il défend une politique migratoire restrictive, un nationalisme culturel, des critiques du multiculturalisme et un discours populiste opposant les citoyens ordinaires aux élites politiques.",
+      "reasonTranslations": {
+        "en": "A radical right-wing populist party in Finland. It advocates a restrictive immigration policy, cultural nationalism, criticism of multiculturalism, and a populist narrative that pits ordinary citizens against the political elite.",
+        "es": "Partido finlandés de extrema derecha populista. Defiende una política migratoria restrictiva, el nacionalismo cultural, critica el multiculturalismo y mantiene un discurso populista que contrapone a los ciudadanos de a pie a las élites políticas.",
+        "de": "Eine finnische rechtsradikale, populistische Partei. Sie vertritt eine restriktive Einwanderungspolitik, kulturellen Nationalismus, Kritik am Multikulturalismus und einen populistischen Diskurs, der die einfachen Bürger den politischen Eliten gegenüberstellt.",
+        "it": "Partito finlandese di estrema destra populista. Sostiene una politica migratoria restrittiva, un nazionalismo culturale, critiche al multiculturalismo e un discorso populista che contrappone i cittadini comuni alle élite politiche.",
+        "pt_BR": "Partido finlandês de direita radical populista. Defende uma política migratória restritiva, um nacionalismo cultural, críticas ao multiculturalismo e um discurso populista que opõe os cidadãos comuns às elites políticas."
+      },
       "source": "https://journals.sagepub.com/doi/10.1177/13540688241227526",
       "addedAt": "2026-10-29"
     },
@@ -424,6 +783,13 @@
       "label": "Loups gris",
       "category": "extreme-right",
       "reason": "Réseaux ultranationalistes turcs liés historiquement au mouvement du MHP. Ils promeuvent une identité turque ethnique et ont été associés à des actions violentes contre des opposants politiques et des minorités, selon différents rapports européens.",
+      "reasonTranslations": {
+        "en": "Turkish ultranationalist networks with historical ties to the MHP movement. They promote an ethnic Turkish identity and have been linked to acts of violence against political opponents and minorities, according to various European reports.",
+        "es": "Redes ultranacionalistas turcas vinculadas históricamente al movimiento del MHP. Promueven una identidad turca étnica y, según diversos informes europeos, se les ha relacionado con actos violentos contra opositores políticos y minorías.",
+        "de": "Türkische ultranationalistische Netzwerke, die historisch mit der MHP-Bewegung verbunden sind. Sie propagieren eine ethnisch-türkische Identität und wurden laut verschiedenen europäischen Berichten mit gewalttätigen Aktionen gegen politische Gegner und Minderheiten in Verbindung gebracht.",
+        "it": "Reti ultranazionaliste turche storicamente legate al movimento dell’MHP. Promuovono un’identità etnica turca e, secondo diversi rapporti europei, sono state associate ad azioni violente contro oppositori politici e minoranze.",
+        "pt_BR": "Redes ultranacionalistas turcas historicamente ligadas ao movimento do MHP. Elas promovem uma identidade étnica turca e têm sido associadas a ações violentas contra opositores políticos e minorias, segundo diversos relatórios europeus."
+      },
       "source": "https://www.britannica.com/topic/Grey-Wolves",
       "addedAt": "2026-10-29"
     },
@@ -433,6 +799,13 @@
       "label": "Douglas Murray",
       "category": "extreme-right",
       "reason": "Essayiste conservateur britannique, critique de l'immigration, de l'islam politique et du multiculturalisme. Ses ouvrages défendent une identité civilisationnelle occidentale ; plusieurs critiques rapprochent ses argumentaires des discours de la droite radicale, qualification qu'il conteste.",
+      "reasonTranslations": {
+        "en": "A British conservative essayist and critic of immigration, political Islam, and multiculturalism. His works advocate for a Western civilizational identity; several critics have likened his arguments to the rhetoric of the radical right, a characterization he disputes.",
+        "es": "Ensayista conservador británico, crítico con la inmigración, el islam político y el multiculturalismo. Sus obras defienden una identidad civilizacional occidental; varios críticos asocian sus argumentos con los discursos de la derecha radical, calificación que él rechaza.",
+        "de": "Britischer konservativer Essayist, Kritiker der Einwanderung, des politischen Islam und des Multikulturalismus. In seinen Werken vertritt er eine westliche zivilisatorische Identität; mehrere Kritiker vergleichen seine Argumentation mit den Diskursen der radikalen Rechten, eine Einstufung, die er bestreitet.",
+        "it": "Saggista conservatore britannico, critico nei confronti dell'immigrazione, dell'Islam politico e del multiculturalismo. Le sue opere difendono un'identità civile occidentale; diversi critici accostano le sue argomentazioni ai discorsi della destra radicale, definizione che egli contesta.",
+        "pt_BR": "Ensaísta conservador britânico, crítico da imigração, do islamismo político e do multiculturalismo. Suas obras defendem uma identidade civilizacional ocidental; vários críticos associam seus argumentos aos discursos da direita radical, qualificação que ele contesta."
+      },
       "source": "https://www.currentaffairs.org/news/2022/09/taking-white-supremacist-talking-points-mainstream",
       "addedAt": "2026-10-29"
     },
@@ -442,6 +815,13 @@
       "label": "Force populaire",
       "category": "extreme-right",
       "reason": "Fuerza Popular, parti péruvien fujimoriste dirigé par Keiko Fujimori. Il défend le conservatisme social, le libéralisme économique et l'héritage politique d'Alberto Fujimori, marqué par des pratiques autoritaires ; son classement varie entre droite conservatrice et droite radicale populiste.",
+      "reasonTranslations": {
+        "en": "Fuerza Popular, a Peruvian Fujimori-aligned party led by Keiko Fujimori. It advocates social conservatism, economic liberalism, and the political legacy of Alberto Fujimori, which was marked by authoritarian practices; its political orientation ranges from the conservative right to the radical populist right.",
+        "es": "Fuerza Popular, partido peruano fujimorista liderado por Keiko Fujimori. Defiende el conservadurismo social, el liberalismo económico y el legado político de Alberto Fujimori, marcado por prácticas autoritarias; su orientación política oscila entre la derecha conservadora y la derecha populista radical.",
+        "de": "Fuerza Popular, eine peruanische Fujimori-nahe Partei unter der Führung von Keiko Fujimori. Sie vertritt sozialen Konservatismus, wirtschaftlichen Liberalismus und das politische Erbe von Alberto Fujimori, das von autoritären Praktiken geprägt ist; ihre Einordnung schwankt zwischen konservativer Rechter und radikal-populistischer Rechter.",
+        "it": "Fuerza Popular, partito peruviano fujimorista guidato da Keiko Fujimori. Sostiene il conservatorismo sociale, il liberalismo economico e l'eredità politica di Alberto Fujimori, caratterizzata da pratiche autoritarie; la sua collocazione politica varia tra la destra conservatrice e la destra populista radicale.",
+        "pt_BR": "Fuerza Popular, partido peruano fujimorista liderado por Keiko Fujimori. Defende o conservadorismo social, o liberalismo econômico e o legado político de Alberto Fujimori, marcado por práticas autoritárias; sua orientação política varia entre a direita conservadora e a direita populista radical."
+      },
       "source": "https://journals.sagepub.com/doi/10.1177/00323217241301317",
       "addedAt": "2026-10-29"
     },
@@ -451,6 +831,13 @@
       "label": "Frères d'Italie",
       "category": "extreme-right",
       "reason": "Parti italien national-conservateur issu d'une tradition postfasciste, dirigé par Giorgia Meloni. Il défend un nationalisme souverainiste, le durcissement des règles migratoires et des positions conservatrices sur la famille et l'identité culturelle.",
+      "reasonTranslations": {
+        "en": "An Italian national-conservative party with roots in the post-fascist tradition, led by Giorgia Meloni. It advocates for sovereignist nationalism, stricter immigration policies, and conservative stances on family and cultural identity.",
+        "es": "Partido italiano nacional-conservador de tradición posfascista, liderado por Giorgia Meloni. Defiende un nacionalismo soberanista, el endurecimiento de las normas migratorias y posturas conservadoras sobre la familia y la identidad cultural.",
+        "de": "Eine italienische nationalkonservative Partei, die aus einer postfaschistischen Tradition hervorgegangen ist und von Giorgia Meloni geführt wird. Sie vertritt einen souveränistischen Nationalismus, eine Verschärfung der Einwanderungsbestimmungen sowie konservative Standpunkte in Bezug auf Familie und kulturelle Identität.",
+        "it": "Partito italiano nazional-conservatore di tradizione postfascista, guidato da Giorgia Meloni. Sostiene un nazionalismo sovranista, l'inasprimento delle norme in materia di immigrazione e posizioni conservatrici sulla famiglia e sull'identità culturale.",
+        "pt_BR": "Partido nacional-conservador italiano de tradição pós-fascista, liderado por Giorgia Meloni. Defende um nacionalismo soberanista, o endurecimento das regras de imigração e posições conservadoras sobre a família e a identidade cultural."
+      },
       "source": "https://popu-list.org/",
       "addedAt": "2026-10-29"
     },
@@ -460,6 +847,13 @@
       "label": "Ted Cruz",
       "category": "extreme-right",
       "reason": "Sénateur républicain américain associé au conservatisme religieux. Il défend des restrictions fortes sur l'avortement et l'immigration, le droit de porter des armes et une politique économique libérale, dans le courant conservateur du Parti républicain.",
+      "reasonTranslations": {
+        "en": "A U.S. Republican senator associated with religious conservatism. He advocates for strict restrictions on abortion and immigration, the right to bear arms, and a liberal economic policy, in line with the conservative wing of the Republican Party.",
+        "es": "Senador republicano estadounidense vinculado al conservadurismo religioso. Defiende fuertes restricciones al aborto y a la inmigración, el derecho a portar armas y una política económica liberal, dentro de la corriente conservadora del Partido Republicano.",
+        "de": "US-amerikanischer republikanischer Senator, der mit dem religiösen Konservatismus in Verbindung gebracht wird. Er setzt sich für strenge Beschränkungen in Bezug auf Abtreibung und Einwanderung, für das Recht auf Waffenbesitz sowie für eine liberale Wirtschaftspolitik ein und vertritt damit die konservative Strömung innerhalb der Republikanischen Partei.",
+        "it": "Senatore repubblicano statunitense legato al conservatorismo religioso. Sostiene severe restrizioni in materia di aborto e immigrazione, il diritto di portare armi e una politica economica liberale, nell'ala conservatrice del Partito Repubblicano.",
+        "pt_BR": "Senador republicano norte-americano associado ao conservadorismo religioso. Ele defende restrições rigorosas ao aborto e à imigração, o direito ao porte de armas e uma política econômica liberal, dentro da ala conservadora do Partido Republicano."
+      },
       "source": "https://www.britannica.com/biography/Ted-Cruz",
       "addedAt": "2026-10-29"
     },
@@ -469,6 +863,13 @@
       "label": "Tomio Okamura",
       "category": "extreme-right",
       "reason": "Dirigeant du parti tchèque SPD, classé à la droite radicale populiste. Il mène des campagnes anti-immigration et anti-islam, défend le souverainisme et critique l'Union européenne et les politiques d'accueil des réfugiés.",
+      "reasonTranslations": {
+        "en": "Leader of the Czech SPD party, which is classified as radical right-wing populist. He leads anti-immigration and anti-Islam campaigns, advocates for sovereignty, and criticizes the European Union and its refugee policies.",
+        "es": "Líder del partido checo SPD, considerado de extrema derecha populista. Lleva a cabo campañas contra la inmigración y el islam, defiende el soberanismo y critica a la Unión Europea y las políticas de acogida de refugiados.",
+        "de": "Vorsitzender der tschechischen Partei SPD, die dem rechtsradikalen Populismus zugeordnet wird. Er führt Kampagnen gegen Einwanderung und den Islam, setzt sich für Souveränismus ein und kritisiert die Europäische Union sowie die Flüchtlingspolitik.",
+        "it": "Leader del partito ceco SPD, classificato nell'ala populista di estrema destra. Conduce campagne contro l'immigrazione e l'Islam, difende il sovranismo e critica l'Unione europea e le politiche di accoglienza dei rifugiati.",
+        "pt_BR": "Líder do partido tcheco SPD, classificado como de extrema direita populista. Ele conduz campanhas contra a imigração e contra o islamismo, defende o soberanismo e critica a União Europeia e as políticas de acolhimento de refugiados."
+      },
       "source": "https://popu-list.org/",
       "addedAt": "2026-10-29"
     },
@@ -478,6 +879,13 @@
       "label": "Pamela Geller",
       "category": "extreme-right",
       "reason": "Militante américaine cofondatrice de Stop Islamization of America et de l'American Freedom Defense Initiative. Ses campagnes contre l'islam et les mosquées et ses rapprochements avec des mouvements identitaires européens sont documentés par le SPLC et la Bridge Initiative.",
+      "reasonTranslations": {
+        "en": "An American activist and co-founder of Stop Islamization of America and the American Freedom Defense Initiative. Her campaigns against Islam and mosques, as well as her ties to European identitarian movements, have been documented by the SPLC and the Bridge Initiative.",
+        "es": "Activista estadounidense, cofundadora de «Stop Islamization of America» y de la «American Freedom Defense Initiative». Sus campañas contra el islam y las mezquitas, así como sus vínculos con movimientos identitarios europeos, han sido documentados por el SPLC y la Bridge Initiative.",
+        "de": "US-amerikanische Aktivistin und Mitbegründerin von „Stop Islamization of America“ und der „American Freedom Defense Initiative“. Ihre Kampagnen gegen den Islam und Moscheen sowie ihre Verbindungen zu europäischen Identitätsbewegungen sind vom SPLC und der Bridge Initiative dokumentiert.",
+        "it": "Attivista statunitense, cofondatrice di “Stop Islamization of America” e dell’“American Freedom Defense Initiative”. Le sue campagne contro l’Islam e le moschee, nonché i suoi legami con i movimenti identitari europei, sono documentati dall’SPLC e dalla Bridge Initiative.",
+        "pt_BR": "Ativista norte-americana, cofundadora da Stop Islamization of America e da American Freedom Defense Initiative. Suas campanhas contra o islamismo e as mesquitas, bem como suas ligações com movimentos identitários europeus, estão documentadas pelo SPLC e pela Bridge Initiative."
+      },
       "source": "https://www.splcenter.org/resources/extremist-files/pamela-geller/",
       "addedAt": "2026-10-29"
     },
@@ -487,6 +895,13 @@
       "label": "Ümit Özdağ",
       "category": "extreme-right",
       "reason": "Fondateur du Zafer Partisi turc, parti nationaliste laïc généralement classé dans la droite radicale populiste. Il mène des campagnes particulièrement hostiles aux réfugiés syriens et défend leur retour massif, au nom de l'identité et de la sécurité nationales.",
+      "reasonTranslations": {
+        "en": "Founder of Turkey's Zafer Partisi, a secular nationalist party generally classified as part of the radical populist right. He runs campaigns that are particularly hostile toward Syrian refugees and advocates for their mass repatriation in the name of national identity and security.",
+        "es": "Fundador del Zafer Partisi turco, un partido nacionalista laico que suele clasificarse dentro de la derecha populista radical. Lleva a cabo campañas especialmente hostiles hacia los refugiados sirios y aboga por su retorno masivo, en nombre de la identidad y la seguridad nacionales.",
+        "de": "Gründer der türkischen Zafer Partisi, einer säkularen nationalistischen Partei, die gemeinhin dem radikal-populistischen rechten Spektrum zugeordnet wird. Er führt Kampagnen durch, die sich besonders gegen syrische Flüchtlinge richten, und setzt sich im Namen der nationalen Identität und Sicherheit für deren massenhafte Rückführung ein.",
+        "it": "Fondatore del partito turco Zafer Partisi, un partito nazionalista laico generalmente classificato nell'ala populista di estrema destra. Conduce campagne particolarmente ostili nei confronti dei rifugiati siriani e sostiene il loro ritorno in massa, in nome dell'identità e della sicurezza nazionali.",
+        "pt_BR": "Fundador do Zafer Partisi turco, partido nacionalista laico geralmente classificado como pertencente à direita populista radical. Ele conduz campanhas particularmente hostis aos refugiados sírios e defende o retorno em massa desses refugiados, em nome da identidade e da segurança nacionais."
+      },
       "source": "https://benjamins.com/catalog/jlp.24070.efe",
       "addedAt": "2026-10-29"
     },
@@ -496,6 +911,13 @@
       "label": "Vox",
       "category": "extreme-right",
       "reason": "Parti espagnol de droite radicale populiste. Il met en avant le nationalisme espagnol, l'opposition aux mouvements séparatistes, la restriction de l'immigration et des positions conservatrices sur le genre, la famille et les institutions.",
+      "reasonTranslations": {
+        "en": "A radical right-wing populist party in Spain. It emphasizes Spanish nationalism, opposition to separatist movements, restrictions on immigration, and conservative stances on gender, family, and institutions.",
+        "es": "Partido español de extrema derecha populista. Defiende el nacionalismo español, la oposición a los movimientos separatistas, la restricción de la inmigración y posturas conservadoras sobre el género, la familia y las instituciones.",
+        "de": "Eine spanische rechtsradikale, populistische Partei. Sie setzt sich für den spanischen Nationalismus, die Ablehnung separatistischer Bewegungen, die Einschränkung der Einwanderung sowie konservative Standpunkte zu Geschlechterfragen, Familie und Institutionen ein.",
+        "it": "Partito spagnolo di destra radicale e populista. Si distingue per il nazionalismo spagnolo, l'opposizione ai movimenti separatisti, la limitazione dell'immigrazione e le posizioni conservatrici su questioni relative al genere, alla famiglia e alle istituzioni.",
+        "pt_BR": "Partido espanhol de direita radical populista. Defende o nacionalismo espanhol, a oposição aos movimentos separatistas, a restrição à imigração e posições conservadoras sobre gênero, família e instituições."
+      },
       "source": "https://www.reuters.com/world/far-right-surge-western-spain-shapes-outcome-regional-election-2025-12-22/",
       "addedAt": "2026-10-29"
     },
@@ -505,6 +927,13 @@
       "label": "Matt Gaetz",
       "category": "extreme-right",
       "reason": "Ancien représentant républicain américain allié du mouvement MAGA. Son activité politique s'est caractérisée par le populisme anti-élite, le soutien à Donald Trump et des positions conservatrices très fermes sur l'immigration et les institutions fédérales.",
+      "reasonTranslations": {
+        "en": "A former U.S. Republican representative and ally of the MAGA movement. His political career was marked by anti-elite populism, support for Donald Trump, and very hardline conservative positions on immigration and federal institutions.",
+        "es": "Antiguo diputado republicano estadounidense aliado del movimiento MAGA. Su trayectoria política se ha caracterizado por el populismo antiélites, el apoyo a Donald Trump y unas posturas conservadoras muy firmes en materia de inmigración e instituciones federales.",
+        "de": "Ehemaliger republikanischer Abgeordneter aus den USA und Verbündeter der MAGA-Bewegung. Seine politische Tätigkeit war geprägt von Anti-Elite-Populismus, der Unterstützung für Donald Trump und sehr entschiedenen konservativen Positionen in Bezug auf Einwanderung und die Bundesinstitutionen.",
+        "it": "Ex deputato repubblicano statunitense, alleato del movimento MAGA. La sua attività politica è stata caratterizzata dal populismo anti-élite, dal sostegno a Donald Trump e da posizioni conservatrici molto rigide in materia di immigrazione e istituzioni federali.",
+        "pt_BR": "Ex-deputado republicano dos Estados Unidos, aliado do movimento MAGA. Sua atuação política foi marcada pelo populismo anti-elite, pelo apoio a Donald Trump e por posições conservadoras muito firmes em relação à imigração e às instituições federais."
+      },
       "source": "https://www.reuters.com/world/us/cpac-generational-divide-over-republican-support-israel-2026-03-28/",
       "addedAt": "2026-10-29"
     },
@@ -514,6 +943,13 @@
       "label": "Björn Höcke",
       "category": "extreme-right",
       "reason": "Figure de l'aile nationaliste radicale de l'AfD allemande. Ses discours identitaires, ses déclarations controversées sur la mémoire du nazisme et l'utilisation d'un slogan nazi interdit en Allemagne l'ont placé au cœur des débats sur l'extrémisme du parti.",
+      "reasonTranslations": {
+        "en": "A leading figure in the radical nationalist wing of Germany's AfD. His identity-based rhetoric, his controversial statements on the memory of Nazism, and his use of a Nazi slogan that is banned in Germany have placed him at the center of debates about the party's extremism.",
+        "es": "Figura destacada del ala nacionalista radical del partido alemán AfD. Sus discursos identitarios, sus polémicas declaraciones sobre la memoria del nazismo y el uso de un eslogan nazi prohibido en Alemania le han situado en el centro de los debates sobre el extremismo del partido.",
+        "de": "Eine Leitfigur des radikal-nationalistischen Flügels der deutschen AfD. Seine identitätspolitischen Reden, seine umstrittenen Äußerungen zum Gedenken an den Nationalsozialismus und die Verwendung eines in Deutschland verbotenen Nazi-Slogans haben ihn in den Mittelpunkt der Debatten über den Extremismus der Partei gerückt.",
+        "it": "Figura di spicco dell'ala nazionalista radicale dell'AfD tedesca. I suoi discorsi identitari, le sue dichiarazioni controverse sulla memoria del nazismo e l'uso di uno slogan nazista vietato in Germania lo hanno posto al centro del dibattito sull'estremismo del partito.",
+        "pt_BR": "Figura de destaque da ala nacionalista radical do partido alemão AfD. Seus discursos identitários, suas declarações polêmicas sobre a memória do nazismo e o uso de um slogan nazista proibido na Alemanha o colocaram no centro dos debates sobre o extremismo do partido."
+      },
       "source": "https://www.reuters.com/world/europe/why-has-german-spy-agency-classified-far-right-afd-extremist-2025-05-02/",
       "addedAt": "2026-10-29"
     },
@@ -523,6 +959,13 @@
       "label": "Mouvement Notre patrie",
       "category": "extreme-right",
       "reason": "Mi Hazánk, formation hongroise ultranationaliste issue d'une scission du Jobbik. Elle défend une politique identitaire radicale, l'opposition à l'immigration, le conservatisme social et un discours hostile aux minorités et aux élites politiques.",
+      "reasonTranslations": {
+        "en": "Mi Hazánk, a Hungarian ultranationalist group that emerged from a split within Jobbik. It advocates a radical identity-based agenda, opposition to immigration, social conservatism, and a hostile stance toward minorities and political elites.",
+        "es": "Mi Hazánk, formación húngara ultranacionalista surgida de una escisión del Jobbik. Defiende una política identitaria radical, la oposición a la inmigración, el conservadurismo social y un discurso hostil hacia las minorías y las élites políticas.",
+        "de": "Mi Hazánk, eine ungarische ultranationalistische Partei, die aus einer Abspaltung der Jobbik hervorgegangen ist. Sie vertritt eine radikale identitäre Politik, lehnt Einwanderung ab, vertritt sozialen Konservatismus und führt einen gegen Minderheiten und politische Eliten gerichteten Diskurs.",
+        "it": "Mi Hazánk, formazione ungherese ultranazionalista nata da una scissione dal Jobbik. Sostiene una politica identitaria radicale, l'opposizione all'immigrazione, il conservatorismo sociale e un discorso ostile alle minoranze e alle élite politiche.",
+        "pt_BR": "Mi Hazánk, partido húngaro ultranacionalista que surgiu de uma cisão no Jobbik. Defende uma política identitária radical, a oposição à imigração, o conservadorismo social e um discurso hostil às minorias e às elites políticas."
+      },
       "source": "https://popu-list.org/",
       "addedAt": "2026-10-29"
     },
@@ -532,6 +975,13 @@
       "label": "Marjorie Taylor Greene",
       "category": "extreme-right",
       "reason": "Ancienne représentante républicaine associée à l'aile radicale du mouvement MAGA. Elle a relayé dans le passé des théories liées à QAnon et pris des positions ultraconservatrices sur l'immigration et les questions de genre, avant de se distancier de QAnon.",
+      "reasonTranslations": {
+        "en": "A former Republican representative associated with the radical wing of the MAGA movement. She has in the past promoted theories linked to QAnon and taken ultra-conservative stances on immigration and gender issues, before distancing herself from QAnon.",
+        "es": "Exdiputada republicana vinculada al ala radical del movimiento MAGA. En el pasado difundió teorías relacionadas con QAnon y adoptó posturas ultraconservadoras sobre la inmigración y las cuestiones de género, antes de distanciarse de QAnon.",
+        "de": "Ehemalige republikanische Abgeordnete, die mit dem radikalen Flügel der MAGA-Bewegung in Verbindung stand. In der Vergangenheit verbreitete sie Theorien im Zusammenhang mit QAnon und vertrat ultrakonservative Standpunkte zu Einwanderung und Geschlechterfragen, bevor sie sich von QAnon distanzierte.",
+        "it": "Ex deputata repubblicana legata all'ala radicale del movimento MAGA. In passato ha diffuso teorie legate a QAnon e ha assunto posizioni ultraconservatrici sull'immigrazione e sulle questioni di genere, prima di prendere le distanze da QAnon.",
+        "pt_BR": "Ex-deputada republicana ligada à ala radical do movimento MAGA. No passado, ela divulgou teorias relacionadas ao QAnon e assumiu posições ultraconservadoras sobre imigração e questões de gênero, antes de se distanciar do QAnon."
+      },
       "source": "https://www.reuters.com/investigations/trump-20-maga-aligned-influencers-media-emerge-new-mainstream-2025-11-08/",
       "addedAt": "2026-10-29"
     },
@@ -541,6 +991,13 @@
       "label": "Restore Britain",
       "category": "extreme-right",
       "reason": "Mouvement politique britannique positionné sur une ligne nationaliste et anti-immigration. Sa communication met en avant les restrictions migratoires, l'identité nationale et la critique des principaux partis britanniques.",
+      "reasonTranslations": {
+        "en": "A British political movement with a nationalist and anti-immigration stance. Its messaging emphasizes immigration restrictions, national identity, and criticism of the major British political parties.",
+        "es": "Movimiento político británico de carácter nacionalista y contrario a la inmigración. Su discurso hace hincapié en las restricciones migratorias, la identidad nacional y la crítica a los principales partidos británicos.",
+        "de": "Eine britische politische Bewegung, die eine nationalistische und einwanderungsfeindliche Linie vertritt. In ihrer Kommunikation stehen Einwanderungsbeschränkungen, die nationale Identität und die Kritik an den großen britischen Parteien im Vordergrund.",
+        "it": "Movimento politico britannico di orientamento nazionalista e anti-immigrazione. La sua comunicazione pone l'accento sulle restrizioni all'immigrazione, sull'identità nazionale e sulla critica ai principali partiti britannici.",
+        "pt_BR": "Movimento político britânico que defende uma linha nacionalista e anti-imigração. Sua comunicação enfatiza as restrições à imigração, a identidade nacional e as críticas aos principais partidos britânicos."
+      },
       "source": "https://www.reuters.com/world/uk/right-wing-feud-strengthens-andy-burnhams-bid-be-next-british-prime-minister-2026-06-15/",
       "addedAt": "2026-10-29"
     }
