@@ -1,7 +1,7 @@
 // Liens publics vers les stores.
 // Laisse une chaîne vide tant qu'un lien n'est pas disponible.
 const STORE_URLS = {
-  chrome: "",
+  chrome: "https://chromewebstore.google.com/detail/ifiehalekikjoaikjfmdhnnnflgbolcf?utm_source=item-share-cb",
   firefox: "https://addons.mozilla.org/firefox/addon/bloquons-l-extrême-droite/"
 };
 
